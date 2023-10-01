@@ -48,7 +48,7 @@ $modules: (
 }
 
 @function calc($value) {
-  return $value
+  @return $value;
 }
 
 /// TODO: This is bad practice, calculating between units should be done by converting as by the sass development team:
