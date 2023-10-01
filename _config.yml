@@ -25,7 +25,7 @@ author: esolares
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://esb-ai-lab.github.io'
+url: 'https://esb-ai-lab'
 baseurl: '/esb-ai-lab.github.io'
 
 # This is for the editing function in _/includes/improve_content
