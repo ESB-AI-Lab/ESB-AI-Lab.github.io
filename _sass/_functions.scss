@@ -47,6 +47,10 @@ $modules: (
   @return nth($range, 2);
 }
 
+@function calc($value) {
+  return $value
+}
+
 /// TODO: This is bad practice, calculating between units should be done by converting as by the sass development team:
 /// https://github.com/sass/sass/issues/533 (right now this is a work around)
 // STRIP UNIT
