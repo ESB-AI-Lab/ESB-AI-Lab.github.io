@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -17,32 +17,25 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-team",
-          title: "team",
+          title: "Team",
           description: "Meet the members of the ES Bioinformatics and AI Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Publications from the ES Bioinformatics and AI Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Training the next generation of data scientists and computational biologists.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/news/index.html";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
