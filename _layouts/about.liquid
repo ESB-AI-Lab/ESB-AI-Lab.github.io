@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+{% if page.banner %}
+<div class="lab-banner">
+  <img src="{{ page.banner.image | prepend: 'assets/img/' | relative_url }}" alt="{{ page.banner.alt | default: 'Lab Banner' }}">
+  {% if page.banner.overlay_text %}
+  <div class="banner-overlay">
+    <h1>{{ page.banner.overlay_text }}</h1>
+  </div>
+  {% endif %}
+</div>
+{% endif %}
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
