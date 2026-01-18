@@ -18,8 +18,6 @@ latest_posts:
   limit: 3
 ---
 
-# ES Bioinformatics & AI Lab
-
 We develop and apply computational methods to address critical challenges in **food security**, **species conservation**, and **climate resilience**.
 
 Our research combines machine learning, computer vision, and genomics to understand how organisms adapt to changing environments and to develop tools that enable sustainable agriculture.
@@ -28,15 +26,15 @@ Our research combines machine learning, computer vision, and genomics to underst
 
 ## Research Focus
 
-<div class="row">
-<div class="col-md-6">
+<div class="row" markdown="1">
+<div class="col-md-6" markdown="1">
 
 **AI for Aquaculture**
 
 Computer vision and genomic approaches for fish farming, including AI-assisted sex determination in sturgeon to improve sustainability and reduce costs.
 
 </div>
-<div class="col-md-6">
+<div class="col-md-6" markdown="1">
 
 **Crop Genomics**
 
@@ -45,15 +43,15 @@ Understanding the genetic basis of adaptation in economically important crops in
 </div>
 </div>
 
-<div class="row mt-3">
-<div class="col-md-6">
+<div class="row mt-3" markdown="1">
+<div class="col-md-6" markdown="1">
 
 **RNA Biology**
 
 Discovering regulatory mechanisms controlling gene expression in plants, with implications for crop improvement and stress tolerance.
 
 </div>
-<div class="col-md-6">
+<div class="col-md-6" markdown="1">
 
 **Antimicrobial Resistance**
 
@@ -69,9 +67,7 @@ Deep learning approaches to predict and forecast antimicrobial resistance patter
 Our research is supported by:
 
 - **USDA NIFA** Western Regional Aquaculture Center
-- **California Climate Action** Research Program
 - **NSF ACCESS** Computing Allocations
-- **San Diego Supercomputer Center**
 
 ---
 

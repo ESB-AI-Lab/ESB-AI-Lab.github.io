@@ -36,18 +36,20 @@ nav_order: 2
 
 ## Graduate Students
 
-*Recruiting for Fall 2025. Interested students should contact Dr. Solares.*
+Currently accepting Masters students. Can co-mentor Ph.D. students. Interested students should contact Dr. Solares.
 
 ---
 
 ## Undergraduate Researchers
 
-*Positions available for motivated undergraduates interested in computational biology, machine learning, or agricultural genomics.*
+Positions available for motivated undergraduates interested in computational biology, machine learning, or agricultural genomics.
 
 ---
 
 ## Collaborators
 
+- **Dr. Mary Lu Arpaia** - UC Riverside, Department of Botany & Plant Sciences
+- **Dr. Kwasi Connor** - UC Irvine, Ecology & Evolutionary Biology
 - **Dr. Jackson Gross** - UC Davis, Department of Animal Sciences
 - **Dr. Adam Summers** - University of Washington, Friday Harbor Laboratories
 - **Dr. Brandon Gaut** - UC Irvine, Ecology & Evolutionary Biology
@@ -65,7 +67,7 @@ nav_order: 2
 
 We are actively recruiting motivated researchers at all levels:
 
-**Graduate Students:** We welcome rotation students and prospective Ph.D. students through the UCSD Bioinformatics, Computer Science, or Data Science programs.
+**Graduate Students:** Currently accepting Masters students. Can co-mentor Ph.D. students through the UCSD Bioinformatics, Computer Science, or Data Science programs.
 
 **Undergraduates:** Research opportunities available for students interested in computational biology, machine learning, or agricultural applications.
 
