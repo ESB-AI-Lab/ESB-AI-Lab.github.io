@@ -225,9 +225,9 @@ jekyll-archives:
   posts:
     enabled: [year, tags, categories]
     permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
+      year: "/news/:year/"
+      tags: "/news/:type/:name/"
+      categories: "/news/:type/:name/"
   books:
     enabled: [year, tags, categories]
 
