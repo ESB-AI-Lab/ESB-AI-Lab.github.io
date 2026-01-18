@@ -3,8 +3,8 @@ layout: page
 permalink: /repositories/
 title: code
 description: Open-source software and tools developed by the ES Bioinformatics and AI Lab.
-nav: true
-nav_order: 6
+nav: false
+nav_order: 99
 ---
 
 {% if site.data.repositories.github_users %}
