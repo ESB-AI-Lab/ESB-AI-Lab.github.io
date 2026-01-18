@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
+    <p>CSE Building 2204</p>
     <p>UC San Diego</p>
     <p>La Jolla, CA 92093</p>
 
@@ -21,38 +22,49 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
-**Harnessing Bioinformatics and AI to Ensure Food Security and Species Rescue in the Face of a Changing Climate**
+## Forging a Sustainable Future
 
-I am a computational biologist and data scientist bridging artificial intelligence, evolutionary genomics, and climate-resilient agriculture. My research leverages cutting-edge machine learning and bioinformatics to address global food security challenges in the face of rapid climate change.
+The **ES Bioinformatics and AI Lab** develops and applies open-source intelligent algorithms to address critical challenges in food security, species conservation, and climate resilience. We combine computational genomics, machine learning, and computer vision to understand how organisms adapt to changing environments.
 
-Currently, I serve as a **Lecturer at UC San Diego** in both the Computer Science and Engineering Department and the Halicioglu Data Science Institute, where I teach graduate-level courses in big data analytics and machine learning at scale. I am also a **Machine Learning Engineer at Informuta, Inc.**, applying AI solutions to real-world problems.
+---
 
-## Research Focus
+## Research Areas
 
-The ES Bioinformatics and AI Lab develops and applies open-source intelligent algorithms in genomics, automation, and detection/classification. We focus on understanding plant and animal genomic regions responsible for adaptation and economically important traits, enabling crops and species to thrive as climate change impacts agriculture and biodiversity.
+**AI-Assisted Aquaculture** - Developing computer vision and genomic approaches for sturgeon sex determination, reducing costs and improving sustainability of aquaculture operations. Funded by USDA NIFA ($465,851).
 
-**Current Research Areas:**
-- AI-assisted aquaculture (sturgeon sex determination)
-- Crop genomics (maize, avocado)
-- RNA secondary structures and gene regulation
-- Open-source bioinformatics tools
-- Computer vision for agriculture
+**Crop Genomics & Climate Resilience** - Investigating the genomic basis of adaptation in economically important crops including maize, avocado, and grapevine. Our work on avocado domestication and heterodichogamy informs breeding programs worldwide.
 
-## Education & Training
+**RNA Biology & Gene Regulation** - Discovering novel miRNA-like secondary structures that regulate gene expression and epigenetic silencing in plants, with implications for crop improvement.
 
-- **Ph.D. in Biological Sciences** (Comparative Genomics), UC Irvine, 2021
-- **M.S. in Biological Sciences**, UC Irvine
-- **B.S. in Biomedical Computing**, UC Irvine
-- **UC President's Postdoctoral Fellow**, UC Davis, 2021-2023
+**Antimicrobial Resistance** - Applying deep learning to predict and forecast antimicrobial resistance patterns from genomic data (collaboration with Informuta, Inc.).
 
-## Impact
+---
 
-- **19 peer-reviewed publications** in *Genome Research*, *PNAS*, *G3*, and more
-- **528+ citations** across computational biology and genomics
-- **~$465,000 in active research funding** as PI (USDA NIFA)
-- Featured in press releases at SDSC, ACCESS-CI, and major scientific media
+## Lab Director
+
+**Edwin Solares, Ph.D.** is a Lecturer in Computer Science and Data Science at UC San Diego. His research has been published in *Nature Plants*, *PNAS*, *Genome Research*, and other leading journals. He is a UC President's Postdoctoral Fellow alumnus and NSF Graduate Research Fellow.
+
+[View full CV](/cv/) | [Google Scholar](https://scholar.google.com/citations?user=uhDHFV4AAAAJ)
+
+---
+
+## Funding & Support
+
+- **USDA NIFA** Western Regional Aquaculture Center ($465,851)
+- **California Climate Action** Research Grant ($50,000)
+- **Eurosemillas** Industry Partnership ($83,610)
+- **NSF ACCESS** Computing Allocations
+- **San Diego Supercomputer Center**
+
+---
+
+## Join the Lab
+
+We are recruiting motivated graduate students, undergraduates, and postdocs interested in computational biology, machine learning, and agricultural genomics.
+
+**Contact:** esolares [at] ucsd [dot] edu

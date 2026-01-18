@@ -2,26 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Edwin A. Solares
+      value: Edwin A. Solares, Ph.D.
     - name: Position
       value: Lecturer, UC San Diego
+    - name: Affiliations
+      value: CSE Department & Halicioglu Data Science Institute
     - name: Languages
-      value: English, Spanish
+      value: English, Spanish, Korean (conversational)
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Biological Sciences
+    - title: Ph.D. in Ecology and Evolutionary Biology
       institution: University of California, Irvine
       year: 2021
       description:
         - Comparative Genomics
-    - title: M.S. in Biological Sciences
+        - Advisor: Brandon S. Gaut
+    - title: M.S. in Biology
       institution: University of California, Irvine
-      year: 2017
-    - title: B.S. in Biomedical Computing
+      year: 2019
+    - title: B.S. in Biomedical Computing (Computer Science)
       institution: University of California, Irvine
-      year: 2013
+      year: 2014
 
 - title: Experience
   type: time_table
@@ -30,41 +33,52 @@
       institution: UC San Diego - CSE & Halicioglu Data Science Institute
       year: 2023 - Present
       description:
-        - Teaching graduate-level courses in big data analytics (DSC 232R)
-        - Teaching Introduction to Artificial Intelligence (CSE 150A)
+        - Teaching DSC 232R Big Data Analytics Using Spark
+        - Teaching CSE 150A/B Intro to AI
+        - Teaching CSE 151A Machine Learning
     - title: Machine Learning Engineer
       institution: Informuta, Inc.
       year: 2024 - Present
       description:
-        - Applying AI solutions to real-world problems
+        - AI-driven predictive diagnostics for antimicrobial resistance (Nature Communications, 2024)
+        - Deep neural networks achieving >80% accuracy on genomic datasets
+        - GPU-optimized pipelines reducing runtime by 95%
     - title: UC President's Postdoctoral Fellow
       institution: UC Davis
       year: 2021 - 2023
       description:
-        - Research in crop genomics and evolutionary biology
+        - Mentors: Patrice Koehl (CS) and Jeffrey Ross-Ibarra (Population Genomics)
+        - $122,602 fellowship with $425,000 hiring incentive
 
-- title: Research Projects
+- title: Grants & Funding
   type: time_table
   contents:
-    - title: AI-Assisted Sturgeon Aquaculture
-      year: 2024 - Present
-      description: USDA NIFA funded project (~$465,000) developing computer vision for sex determination in sturgeon.
-    - title: Maize RNA Secondary Structures
-      year: 2023
-      description: Discovery of novel miRNA-like structures controlling gene regulation in maize.
-    - title: Avocado Genomics
-      year: 2023
-      description: Reference genome assembly and domestication history analysis.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
+    - year: 2025-2028
+      items:
+        - "USDA NIFA Western Regional Aquaculture Center: AI-Assisted Sturgeon Sex Determination ($465,851) - Lead PI"
     - year: 2024
       items:
-        - USDA NIFA Grant (~$465,000 as PI)
-    - year: 2021
+        - "California Climate Action & Environmental Sustainability ($50,000) - Lead PI"
+    - year: 2023-2024
       items:
-        - UC President's Postdoctoral Fellowship
+        - "Eurosemillas Industry Grant: AI in Avocado Scion Program ($83,610 sub-award) - Co-PI"
+        - "NSF ACCESS Allocations ($9,564 total) - Lead PI"
+
+- title: Fellowships & Awards
+  type: time_table
+  contents:
+    - year: 2021-2023
+      items:
+        - UC President's Postdoctoral Fellowship ($122,602)
+    - year: 2020-2021
+      items:
+        - UC President's Pre-Professoriate Fellowship ($57,727)
+    - year: 2017-2020
+      items:
+        - NSF Graduate Research Fellowship ($138,000)
+    - year: 2015-2017
+      items:
+        - NSF Bridge to the Doctorate Fellowship ($82,250)
 
 - title: Research Interests
   type: nested_list
@@ -72,14 +86,14 @@
     - title: Computational Genomics
       items:
         - Genome assembly and annotation
-        - Population genomics
-        - RNA secondary structures
+        - Population genomics and structural variants
+        - RNA secondary structures and gene regulation
     - title: AI/ML for Agriculture
       items:
         - Computer vision for aquaculture
-        - Crop improvement
-        - Climate resilience
-    - title: Open Source Tools
+        - Crop improvement and climate resilience
+        - Antimicrobial resistance prediction
+    - title: Open Source Bioinformatics
       items:
-        - Bioinformatics pipelines
-        - Accessible ML frameworks
+        - HapSolo genome assembly tool
+        - Accessible ML frameworks for researchers
