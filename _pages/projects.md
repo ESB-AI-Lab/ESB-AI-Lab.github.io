@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /projects/
 description: Current and past research projects in computational genomics, AI for agriculture, and climate resilience.
 nav: true
