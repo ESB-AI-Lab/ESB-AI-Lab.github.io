@@ -32,17 +32,12 @@ ninja.data = [{
           },
         },{id: "nav-news",
           title: "News",
-          description: "",
+          description: "Latest updates from the ES Bioinformatics and AI Lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/index.html";
+            window.location.href = "/news/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-published-in-genome-research-diverse-patterns-of-secondary-structure-across-genes-and-transposable-elements-are-associated-with-sirna-production-and-epigenetic-fate",
+        },{id: "news-paper-published-in-genome-research-diverse-patterns-of-secondary-structure-across-genes-and-transposable-elements-are-associated-with-sirna-production-and-epigenetic-fate",
           title: 'Paper published in Genome Research - “Diverse patterns of secondary structure across genes...',
           description: "",
           section: "News",},{id: "news-appointed-as-lecturer-at-uc-san-diego-in-computer-science-and-engineering-department-and-halicioglu-data-science-institute",
