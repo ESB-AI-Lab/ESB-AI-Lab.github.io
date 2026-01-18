@@ -1,0 +1,13 @@
+# this file contains the social media links and usernames of the author
+# the commented lines are the default social media links supported by the template
+# the socials will be displayed in the order they are defined here
+
+# ES Bioinformatics and AI Lab - Social Media Links
+# Email is obfuscated for security - displayed as "esolares [at] ucsd [dot] edu"
+
+github_username: ESB-AI-Lab
+scholar_userid: uhDHFV4AAAAJ
+orcid_id: 0000-0002-3220-4927
+linkedin_username: solarese
+research_gate_profile: Edwin-Solares
+rss_icon: true

@@ -1,0 +1,85 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Edwin A. Solares
+    - name: Position
+      value: Lecturer, UC San Diego
+    - name: Languages
+      value: English, Spanish
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Biological Sciences
+      institution: University of California, Irvine
+      year: 2021
+      description:
+        - Comparative Genomics
+    - title: M.S. in Biological Sciences
+      institution: University of California, Irvine
+      year: 2017
+    - title: B.S. in Biomedical Computing
+      institution: University of California, Irvine
+      year: 2013
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer
+      institution: UC San Diego - CSE & Halicioglu Data Science Institute
+      year: 2023 - Present
+      description:
+        - Teaching graduate-level courses in big data analytics (DSC 232R)
+        - Teaching Introduction to Artificial Intelligence (CSE 150A)
+    - title: Machine Learning Engineer
+      institution: Informuta, Inc.
+      year: 2024 - Present
+      description:
+        - Applying AI solutions to real-world problems
+    - title: UC President's Postdoctoral Fellow
+      institution: UC Davis
+      year: 2021 - 2023
+      description:
+        - Research in crop genomics and evolutionary biology
+
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: AI-Assisted Sturgeon Aquaculture
+      year: 2024 - Present
+      description: USDA NIFA funded project (~$465,000) developing computer vision for sex determination in sturgeon.
+    - title: Maize RNA Secondary Structures
+      year: 2023
+      description: Discovery of novel miRNA-like structures controlling gene regulation in maize.
+    - title: Avocado Genomics
+      year: 2023
+      description: Reference genome assembly and domestication history analysis.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - USDA NIFA Grant (~$465,000 as PI)
+    - year: 2021
+      items:
+        - UC President's Postdoctoral Fellowship
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Computational Genomics
+      items:
+        - Genome assembly and annotation
+        - Population genomics
+        - RNA secondary structures
+    - title: AI/ML for Agriculture
+      items:
+        - Computer vision for aquaculture
+        - Crop improvement
+        - Climate resilience
+    - title: Open Source Tools
+      items:
+        - Bioinformatics pipelines
+        - Accessible ML frameworks
