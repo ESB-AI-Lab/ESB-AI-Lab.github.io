@@ -118,8 +118,6 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
@@ -228,9 +226,6 @@ jekyll-archives:
       year: "/news/:year/"
       tags: "/news/:type/:name/"
       categories: "/news/:type/:name/"
-  books:
-    enabled: [year, tags, categories]
-
 display_tags: ["research", "genomics", "machine-learning", "publications"]
 display_categories: ["news"]
 
