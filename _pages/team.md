@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/
-title: team
+title: Team
 description: Meet the members of the ES Bioinformatics and AI Lab.
 nav: true
 nav_order: 2
@@ -14,7 +14,7 @@ nav_order: 2
     <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded" alt="Edwin Solares">
   </div>
   <div class="col-sm-9">
-    <h4>Edwin Solares, Ph.D.</h4>
+    <h4><a href="https://esolares.github.io">Edwin Solares, Ph.D.</a></h4>
     <p><strong>Lecturer, UC San Diego</strong><br>
     Computer Science & Engineering | Halicioglu Data Science Institute</p>
     <p>Edwin is a computational biologist bridging AI, evolutionary genomics, and climate-resilient agriculture. His research has been published in <em>Nature Plants</em>, <em>PNAS</em>, <em>Genome Research</em>, and other leading journals.</p>

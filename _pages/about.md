@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://cse.ucsd.edu/'>Computer Science and Engineering</a> & <a href='https://datascience.ucsd.edu/'>Halicioglu Data Science Institute</a>, UC San Diego
 

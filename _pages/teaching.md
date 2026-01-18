@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Training the next generation of data scientists and computational biologists.
-nav: true
-nav_order: 5
+nav: false
+nav_order: 99
 ---
 
 ## Teaching Philosophy

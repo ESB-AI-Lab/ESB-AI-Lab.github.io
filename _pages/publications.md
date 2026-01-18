@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications from the ES Bioinformatics and AI Lab.
 nav: true
 nav_order: 3
