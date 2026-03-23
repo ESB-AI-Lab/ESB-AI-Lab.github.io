@@ -57,9 +57,9 @@ Discovering regulatory mechanisms controlling gene expression in plants, with im
 </div>
 <div class="col-md-6" markdown="1">
 
-**Antimicrobial Resistance**
+**Adaptation derived from Co-opting Viral Infections**
 
-Deep learning approaches to predict and forecast antimicrobial resistance patterns from genomic data.
+AI search approaches to predicting and detecting adaptive viral DNA in genomic data.
 
 </div>
 </div>
