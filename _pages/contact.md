@@ -46,8 +46,7 @@ nav_order: 6
   .success-msg { display: none; text-align: center; padding: 40px 20px; }
   .success-msg h3 { margin-bottom: 8px; }
   .success-msg p { color: var(--global-text-color-light, #666); }
-  .direct-contact { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--global-divider-color, #e0e0e0); display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 600px; }
-  @media (max-width: 500px) { .direct-contact { grid-template-columns: 1fr; } }
+  .direct-contact { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--global-divider-color, #e0e0e0); max-width: 600px; }
   .dc-item .dc-label { font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-text-color-light, #999); display: block; margin-bottom: 2px; }
 </style>
 
@@ -93,12 +92,9 @@ We welcome inquiries about research collaboration, education programs, and organ
 
 <div class="direct-contact">
   <div class="dc-item">
-    <span class="dc-label">General Inquiries</span>
-    <a href="#" onclick="this.href='mail'+'to:'+['info','esbailab.org'].join('@');return true;">Email us</a>
-  </div>
-  <div class="dc-item">
     <span class="dc-label">Executive Director</span>
-    <a href="#" onclick="this.href='mail'+'to:'+['edwin','esbailab.org'].join('@');return true;">Email the ED</a>
+    Edwin Solares, Ph.D.<br>
+    <a href="#" onclick="this.href='mail'+'to:'+['edwin','esbailab.org'].join('@');return true;">Email the Executive Director</a>
   </div>
 </div>
 
