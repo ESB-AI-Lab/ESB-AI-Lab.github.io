@@ -64,7 +64,7 @@ All board members serve in a volunteer capacity.
     <img src="/assets/img/kwasi_connor.jpg" class="img-fluid rounded" alt="Kwasi Connor">
   </div>
   <div class="col-sm-9">
-    <h4>Kwasi Connor, Ph.D.</h4>
+    <h4>Kwasi M. Connor, Ph.D.</h4>
     <p><strong>Treasurer</strong> (Board Class I)</p>
     <p>Ecology and evolutionary biology researcher at UC Irvine.</p>
   </div>
@@ -75,7 +75,6 @@ All board members serve in a volunteer capacity.
 ## Collaborators
 
 - **Dr. Mary Lu Arpaia** : UC Riverside, Department of Botany & Plant Sciences
-- **Dr. Kwasi Connor** : UC Irvine, Ecology & Evolutionary Biology
 - **Dr. Jackson Gross** : UC Davis, Department of Animal Sciences
 - **Dr. Adam Summers** : University of Washington, Friday Harbor Laboratories
 - **Dr. Brandon Gaut** : UC Irvine, Ecology & Evolutionary Biology

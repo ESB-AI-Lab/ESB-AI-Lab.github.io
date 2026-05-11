@@ -15,7 +15,7 @@ ESB AI Lab Corporation is a California nonprofit public benefit corporation orga
 |------|------|-------------|
 | Edwin Alberto Solares, Ph.D. | President / Executive Director | Class III |
 | Allison Renee Moreno, Ph.D. | Secretary | Class II |
-| Kwasi Connor, Ph.D. | Treasurer | Class I |
+| Kwasi M. Connor, Ph.D. | Treasurer | Class I |
 
 ## Organization Details
 
