@@ -119,9 +119,9 @@ ninja.data = [{
           description: "Domestication history and heterodichogamy in avocado",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_avocado/";
-            },},{id: "projects-rapid-genome-assembly",
-          title: 'Rapid Genome Assembly',
-          description: "Cost-effective, high-quality genome assembly methods",
+            },},{id: "projects-ai-driven-genome-assembly",
+          title: 'AI-Driven Genome Assembly',
+          description: "AI and bioinformatics methods for more accurate, continuous genome assemblies and improved downstream analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_genome_assembly/";
             },},{id: "projects-cv-framework",
