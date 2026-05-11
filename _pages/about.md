@@ -108,7 +108,6 @@ Accessible AI tools and educational programs broadening scientific participation
 
 Our research is supported by:
 
-- **USDA NIFA** Western Regional Aquaculture Center
 - **NSF ACCESS** Computing Allocations
 
 ---
