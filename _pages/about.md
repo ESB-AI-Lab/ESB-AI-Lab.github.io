@@ -22,7 +22,7 @@ latest_posts:
   limit: 3
 ---
 
-<div style="background: var(--global-bg-color-dark, #f0f7f3); border-left: 4px solid var(--global-theme-color, #2c5f41); padding: 16px 20px; margin-bottom: 32px; border-radius: 4px;">
+<div style="background: var(--global-card-bg-color, var(--global-bg-color, #f0f7f3)); border-left: 4px solid var(--global-theme-color, #2c5f41); padding: 16px 20px; margin-bottom: 32px; border-radius: 4px; color: var(--global-text-color);">
   <strong>ESB AI Lab is now an independent nonprofit.</strong>
   We incorporated in California on April 22, 2026 and are applying for 501(c)(3) tax-exempt status.
   <a href="/donate/">Support our mission &rarr;</a>
