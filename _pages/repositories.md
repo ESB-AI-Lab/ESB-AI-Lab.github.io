@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: code
-description: Open-source software and tools developed by the ES Bioinformatics and AI Lab.
+description: Open-source software and tools developed by ESB AI Lab.
 nav: false
 nav_order: 99
 ---
