@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ES Bioinformatics & AI Lab
+title: ESB AI Lab
 first_name: Edwin
 middle_name:
 last_name: Solares
 contact_note: >
-  esolares [at] ucsd [dot] edu
+  Use our <a href="/contact/">contact form</a> to get in touch.
 description: >
-  ES Bioinformatics and AI Lab at UC San Diego. Research in computational genomics, machine learning for agriculture, and climate-resilient crops.
+  ESB AI Lab Corporation: independent nonprofit research in artificial intelligence,
+  computational biology, conservation, and climate resilience.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: bioinformatics, machine learning, genomics, AI, agriculture, computational biology, UC San Diego
+  &copy; 2026 ESB AI Lab Corporation. A California 501(c)(3) Nonprofit (pending).
+keywords: bioinformatics, machine learning, genomics, AI, conservation, computational biology, nonprofit research
 lang: en
 icon: 🧬
 
@@ -76,7 +76,7 @@ bing_site_verification:
 # -----------------------------------------------------------------------------
 
 blog_name: Lab News
-blog_description: Latest updates from the ES Bioinformatics and AI Lab
+blog_description: Latest updates from ESB AI Lab Corporation
 permalink: /blog/:year/:title/
 lsi: false
 

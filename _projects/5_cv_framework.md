@@ -85,6 +85,6 @@ We are developing an open-source, accessible computer vision framework that enab
 
 ## Get Involved
 
-**For Beta Testing:** Contact esolares [at] ucsd [dot] edu with your use case
+**For Beta Testing:** [Contact us](/contact/) with your use case
 
 **Code Repository (coming soon):** github.com/ESB-AI-Lab/cv-framework

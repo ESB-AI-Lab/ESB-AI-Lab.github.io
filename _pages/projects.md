@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: Current and past research projects in computational genomics, AI for agriculture, and climate resilience.
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [active, published]
 horizontal: false
 ---

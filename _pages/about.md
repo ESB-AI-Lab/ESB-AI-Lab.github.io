@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://cse.ucsd.edu/'>Computer Science and Engineering</a> & <a href='https://datascience.ucsd.edu/'>Halicioglu Data Science Institute</a>, UC San Diego
+subtitle: A California 501(c)(3) Nonprofit Research Organization
 
 banner:
   image: banner.png
-  alt: ES Bioinformatics and AI Lab Banner
+  alt: ESB AI Lab Banner
 
 selected_papers: true
 social: true
@@ -22,9 +22,13 @@ latest_posts:
   limit: 3
 ---
 
-We develop and apply computational methods to address critical challenges in **food security**, **species conservation**, and **climate resilience**.
+<div style="background: var(--global-bg-color-dark, #f0f7f3); border-left: 4px solid var(--global-theme-color, #2c5f41); padding: 16px 20px; margin-bottom: 32px; border-radius: 4px;">
+  <strong>ESB AI Lab is now an independent nonprofit.</strong>
+  We incorporated in California on April 22, 2026 and are applying for 501(c)(3) tax-exempt status.
+  <a href="/donate/">Support our mission &rarr;</a>
+</div>
 
-Our research combines machine learning, computer vision, and genomics to understand how organisms adapt to changing environments and to develop tools that enable sustainable agriculture.
+ESB AI Lab Corporation is an independent nonprofit research organization developing computational methods in artificial intelligence, machine learning, and genomics to address challenges in food security, species conservation, climate resilience, human health, and language preservation.
 
 ---
 
@@ -33,16 +37,16 @@ Our research combines machine learning, computer vision, and genomics to underst
 <div class="row" markdown="1">
 <div class="col-md-6" markdown="1">
 
-**AI for Aquaculture**
+**AI-Directed Breeding and Aquaculture**
 
-Computer vision and genomic approaches for fish farming, including AI-assisted sex determination in sturgeon to improve sustainability and reduce costs.
+Computer vision and genomic approaches for sustainable agriculture and aquaculture, including AI-assisted sex determination in sturgeon.
 
 </div>
 <div class="col-md-6" markdown="1">
 
-**Crop Genomics**
+**Computer Vision for Conservation**
 
-Understanding the genetic basis of adaptation in economically important crops including maize, avocado, and grapevine to inform breeding programs.
+Computational methods supporting the conservation and recovery of threatened and endangered species.
 
 </div>
 </div>
@@ -50,16 +54,50 @@ Understanding the genetic basis of adaptation in economically important crops in
 <div class="row mt-3" markdown="1">
 <div class="col-md-6" markdown="1">
 
-**RNA Biology**
+**Climate and Disease Ecology**
 
-Discovering regulatory mechanisms controlling gene expression in plants, with implications for crop improvement and stress tolerance.
+Climate-driven changes in vector-borne disease distribution and vector genomics.
 
 </div>
 <div class="col-md-6" markdown="1">
 
-**Adaptation derived from Co-opting Viral Infections**
+**Genome Evolution and RNA Biology**
 
-AI search approaches to predicting and detecting adaptive viral DNA in genomic data.
+Biological adaptation to environmental change, RNA regulatory mechanisms, and structural variation in crops and model organisms.
+
+</div>
+</div>
+
+<div class="row mt-3" markdown="1">
+<div class="col-md-6" markdown="1">
+
+**Computational Pathology and Cancer Genomics**
+
+Machine learning and genomic analysis applied to human health.
+
+</div>
+<div class="col-md-6" markdown="1">
+
+**Endangered Language Preservation**
+
+NLP, speech recognition, and AI-assisted OCR for endangered languages.
+
+</div>
+</div>
+
+<div class="row mt-3" markdown="1">
+<div class="col-md-6" markdown="1">
+
+**Edge AI for Field Research**
+
+Multi-sensor edge AI systems for real-time data collection in field and farm settings.
+
+</div>
+<div class="col-md-6" markdown="1">
+
+**Open Science and Education**
+
+Accessible AI tools and educational programs broadening scientific participation.
 
 </div>
 </div>
@@ -75,16 +113,14 @@ Our research is supported by:
 
 ---
 
-## Join Us
+## Get Involved
 
-We are recruiting graduate students, undergraduates, and postdocs interested in computational biology, machine learning, and agricultural genomics.
+We welcome collaborators, volunteers, and supporters at all levels. Whether you are a researcher, student, or community member, there are ways to contribute to our mission.
 
-[Learn more about opportunities](/team/#join-the-lab)
+[Learn more about opportunities](/team/) | [Support our work](/donate/)
 
 ---
 
 ## Contact
 
-**Email:** esolares [at] ucsd [dot] edu
-
-**Location:** CSE Building, UC San Diego, La Jolla, CA 92093
+[Get in touch with us](/contact/)

@@ -4,9 +4,9 @@
     - name: Full Name
       value: Edwin A. Solares, Ph.D.
     - name: Position
-      value: Lecturer, UC San Diego
+      value: President & Executive Director, ESB AI Lab Corporation
     - name: Affiliations
-      value: CSE Department & Halicioglu Data Science Institute
+      value: Lecturer, UC San Diego (CSE & HDSI) | Founder, EdgeConsults, LLC
     - name: Languages
       value: English, Spanish, Korean (conversational)
 
@@ -38,7 +38,7 @@
         - Teaching CSE 151A Machine Learning
     - title: Machine Learning Engineer
       institution: Informuta, Inc.
-      year: 2024 - Present
+      year: 2024 - 2026
       description:
         - AI-driven predictive diagnostics for antimicrobial resistance (Nature Communications, 2024)
         - Deep neural networks achieving >80% accuracy on genomic datasets
@@ -92,7 +92,7 @@
       items:
         - Computer vision for aquaculture
         - Crop improvement and climate resilience
-        - Antimicrobial resistance prediction
+        - Edge AI for field research
     - title: Open Source Bioinformatics
       items:
         - HapSolo genome assembly tool

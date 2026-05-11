@@ -3,8 +3,8 @@ layout: page
 permalink: /news/
 title: News
 nav: true
-nav_order: 4
-description: Latest updates from the ES Bioinformatics and AI Lab
+nav_order: 8
+description: Latest updates from ESB AI Lab Corporation
 ---
 
 <div class="news">

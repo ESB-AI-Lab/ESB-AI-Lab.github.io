@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded **~$465,000 grant** from USDA NIFA Western Regional Aquaculture Center as PI to develop AI technology for sturgeon aquaculture.
+Awarded **~$465,000 grant** from USDA NIFA Western Regional Aquaculture Center as Lead PI to develop AI technology for sturgeon aquaculture. Grant is between UC Davis and University of Washington.

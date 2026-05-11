@@ -9,7 +9,9 @@ related_publications: false
 ---
 
 **Status:** Active Research (Grant Funded)
+**Lead PI:** Edwin Solares, Ph.D.
 **Funding:** ~$465,000 from USDA NIFA Western Regional Aquaculture Center
+**Institutions:** UC Davis and University of Washington
 **Timeline:** 2024-2027
 
 ---
@@ -52,12 +54,12 @@ Sturgeon aquaculture faces a critical challenge: females (caviar producers) cann
 
 ## Collaborators
 
-- **UC Davis** - Department of Animal Sciences
-- **University of Washington** - Friday Harbor Laboratories
-- **Industry Partners** - Sturgeon growers in California and Idaho
+- **UC Davis** : Department of Animal Sciences
+- **University of Washington** : Friday Harbor Laboratories
+- **Industry Partners** : Sturgeon growers in California and Idaho
 
 ## Media Coverage
 
-- [San Diego Supercomputer Center](https://www.sdsc.edu/news/2025/PR20250423-aquaculture.html) - "New AI Technology Aims to Revolutionize Fish Farming"
-- [ACCESS-CI](https://access-ci.org/new-ai-technology-aims-to-revolutionize-fish-farming/) - National research highlight
-- [SeafoodSource](https://www.seafoodsource.com/news/aquaculture/us-west-coast-researchers-aim-to-use-mounted-cameras-to-identify-the-sex-of-sturgeon-boost-production) - Industry coverage
+- [San Diego Supercomputer Center](https://www.sdsc.edu/news/2025/PR20250423-aquaculture.html) : "New AI Technology Aims to Revolutionize Fish Farming"
+- [ACCESS-CI](https://access-ci.org/new-ai-technology-aims-to-revolutionize-fish-farming/) : National research highlight
+- [SeafoodSource](https://www.seafoodsource.com/news/aquaculture/us-west-coast-researchers-aim-to-use-mounted-cameras-to-identify-the-sex-of-sturgeon-boost-production) : Industry coverage
