@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
+  },{id: "nav-organization",
+          title: "Organization",
+          description: "About ESB AI Lab Corporation, a California 501(c)(3) nonprofit.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/organization/";
+          },
+        },{id: "nav-research",
           title: "Research",
           description: "Current and past research projects in computational genomics, AI for agriculture, and climate resilience.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-team",
-          title: "Team",
-          description: "Meet the members of the ES Bioinformatics and AI Lab.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/team/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -30,9 +30,37 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-education",
+          title: "Education",
+          description: "Workshops, short courses, and training in AI, data science, and computational biology.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/education/";
+          },
+        },{id: "nav-support",
+          title: "Support",
+          description: "Support ESB AI Lab&#39;s mission in AI, conservation, and education.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/donate/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "Get in touch with ESB AI Lab Corporation.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
+          },
+        },{id: "nav-team",
+          title: "Team",
+          description: "Meet the team behind ESB AI Lab Corporation.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
+          },
         },{id: "nav-news",
           title: "News",
-          description: "Latest updates from the ES Bioinformatics and AI Lab",
+          description: "Latest updates from ESB AI Lab Corporation",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
@@ -52,14 +80,29 @@ ninja.data = [{
           section: "News",},{id: "news-maize-rna-structures-research-featured-in-sdsc-press-release-supercomputing-simulations-in-multiyear-study-of-corn-to-address-food-insecurity",
           title: 'Maize RNA structures research featured in SDSC press release - “Supercomputing Simulations in...',
           description: "",
-          section: "News",},{id: "news-awarded-465-000-grant-from-usda-nifa-western-regional-aquaculture-center-as-pi-to-develop-ai-technology-for-sturgeon-aquaculture",
-          title: 'Awarded ~$465,000 grant from USDA NIFA Western Regional Aquaculture Center as PI to...',
+          section: "News",},{id: "news-awarded-465-000-grant-from-usda-nifa-western-regional-aquaculture-center-as-lead-pi-to-develop-ai-technology-for-sturgeon-aquaculture-grant-is-between-uc-davis-and-university-of-washington",
+          title: 'Awarded ~$465,000 grant from USDA NIFA Western Regional Aquaculture Center as Lead PI...',
           description: "",
           section: "News",},{id: "news-joined-informuta-inc-as-machine-learning-engineer-applying-ai-solutions-to-industry-challenges-alongside-academic-research",
           title: 'Joined Informuta, Inc. as Machine Learning Engineer, applying AI solutions to industry challenges...',
           description: "",
           section: "News",},{id: "news-our-sturgeon-ai-research-featured-in-sdsc-access-ci-and-seafoodsource-new-ai-technology-aims-to-revolutionize-fish-farming",
           title: 'Our Sturgeon AI research featured in SDSC, ACCESS-CI, and SeafoodSource - “New AI...',
+          description: "",
+          section: "News",},{id: "news-esb-ai-lab-corporation-is-officially-incorporated-in-california-the-california-secretary-of-state-approved-the-articles-of-incorporation-entity-no-b20260165215-establishing-esb-ai-lab-as-a-california-nonprofit-public-benefit-corporation-organized-exclusively-for-scientific-educational-and-charitable-purposes-within-the-meaning-of-section-501-c-3-of-the-internal-revenue-code",
+          title: 'ESB AI Lab Corporation is officially incorporated in California. The California Secretary of...',
+          description: "",
+          section: "News",},{id: "news-statement-of-information-filed-and-incorporator-resolutions-signed-the-california-si-100-was-filed-file-no-ba20260926447-designating-edwin-solares-as-ceo-kwasi-connor-as-treasurer-and-allison-moreno-as-secretary-incorporator-initial-resolutions-formally-appointed-all-three-as-directors",
+          title: 'Statement of Information filed and Incorporator Resolutions signed. The California SI-100 was filed...',
+          description: "",
+          section: "News",},{id: "news-esb-ai-lab-corporation-holds-organizational-formation-meeting-the-board-ratified-the-articles-of-incorporation-confirmed-the-initial-board-with-staggered-terms-elected-officers-adopted-amended-and-restated-bylaws-adopted-a-conflict-of-interest-policy-established-the-education-program-approved-the-fy2026-27-budget-and-authorized-the-corporation-to-obtain-an-ein-open-a-bank-account-and-file-for-federal-and-state-tax-exempt-status-the-bylaws-were-restated-and-ratified-demonstrating-the-board-s-commitment-to-esb-ai-lab-s-mission-of-advancing-scientific-research-and-education-through-artificial-intelligence-machine-learning-computer-vision-and-genomics-across-food-security-species-conservation-climate-resilience-human-health-science-accessibility-and-language-preservation",
+          title: 'ESB AI Lab Corporation holds organizational formation meeting. The Board ratified the Articles...',
+          description: "",
+          section: "News",},{id: "news-foundation-group-engaged-for-501-c-3-formation-esb-ai-lab-corporation-engaged-foundation-group-under-their-surestart-complete-package-to-manage-the-full-federal-and-state-tax-exemption-process-including-irs-form-1023-california-ftb-form-3500-attorney-general-ct-1-registration-and-first-year-form-990-preparation",
+          title: 'Foundation Group engaged for 501(c)(3) formation. ESB AI Lab Corporation engaged Foundation Group...',
+          description: "",
+          section: "News",},{id: "news-esb-ai-lab-corporation-receives-employer-identification-number-the-irs-assigned-ein-42-2446472-notice-cp575e-this-enables-the-corporation-to-open-a-business-bank-account-apply-for-501-c-3-tax-exempt-status-and-register-with-federal-grant-systems-including-sam-gov-grants-gov-and-nih-era-commons",
+          title: 'ESB AI Lab Corporation receives Employer Identification Number. The IRS assigned EIN 42-2446472...',
           description: "",
           section: "News",},{id: "projects-sturgeon-ai",
           title: 'Sturgeon AI',
