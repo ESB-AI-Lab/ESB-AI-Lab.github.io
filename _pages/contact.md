@@ -93,8 +93,7 @@ We welcome inquiries about research collaboration, education programs, and organ
 <div class="direct-contact">
   <div class="dc-item">
     <span class="dc-label">Executive Director</span>
-    Edwin Solares, Ph.D.<br>
-    <a href="#" onclick="this.href='mail'+'to:'+['edwin','esbailab.org'].join('@');return true;">Email the Executive Director</a>
+    Edwin Solares, Ph.D.
   </div>
 </div>
 
