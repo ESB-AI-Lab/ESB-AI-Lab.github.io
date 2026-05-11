@@ -2,7 +2,7 @@
 layout: page
 title: CV Framework
 description: Open-source computer vision for agriculture and conservation
-img: assets/img/cv.jpg
+img: assets/img/cv.png
 importance: 5
 category: active
 related_publications: false
