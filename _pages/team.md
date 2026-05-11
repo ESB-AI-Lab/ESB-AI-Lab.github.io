@@ -53,7 +53,7 @@ All board members serve in a volunteer capacity.
     <img src="/assets/img/allison_moreno.jpg" class="img-fluid rounded" alt="Allison Moreno">
   </div>
   <div class="col-sm-9">
-    <h4>Allison Renee Moreno</h4>
+    <h4>Allison Renee Moreno, Ph.D.</h4>
     <p><strong>Secretary</strong> (Board Class II)</p>
     <p>Ecology and evolutionary biology researcher at UC Santa Cruz.</p>
   </div>
@@ -64,7 +64,7 @@ All board members serve in a volunteer capacity.
     <img src="/assets/img/kwasi_connor.jpg" class="img-fluid rounded" alt="Kwasi Connor">
   </div>
   <div class="col-sm-9">
-    <h4>Kwasi Connor</h4>
+    <h4>Kwasi Connor, Ph.D.</h4>
     <p><strong>Treasurer</strong> (Board Class I)</p>
     <p>Ecology and evolutionary biology researcher at UC Irvine.</p>
   </div>
