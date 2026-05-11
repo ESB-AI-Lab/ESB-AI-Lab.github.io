@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI-Driven Genome Assembly
+title: AI-Driven Genome Assembly & Variant Calling
 description: AI and bioinformatics methods for more accurate, continuous genome assemblies and improved downstream analysis
-img: assets/img/dna.jpg
+img: assets/img/dna.png
 importance: 4
 category: published
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: Avocado Genomics
 description: Domestication history and heterodichogamy in avocado
-img: assets/img/avocado.jpg
+img: assets/img/avocado.png
 importance: 3
 category: published
 related_publications: true

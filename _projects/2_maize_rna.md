@@ -2,7 +2,7 @@
 layout: page
 title: Maize RNA Structures
 description: Novel miRNA-like structures in maize genome regulation
-img: assets/img/maize.jpg
+img: assets/img/maize.png
 importance: 2
 category: published
 related_publications: true
