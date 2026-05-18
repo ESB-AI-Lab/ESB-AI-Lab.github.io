@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/education/";
           },
-        },{id: "nav-support",
-          title: "Support",
+        },{id: "nav-donate",
+          title: "Donate",
           description: "Support ESB AI Lab&#39;s mission in AI, conservation, and education.",
           section: "Navigation",
           handler: () => {
