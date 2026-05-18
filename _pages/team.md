@@ -84,10 +84,12 @@ All board members serve in a volunteer capacity.
 
 ## Get Involved
 
-ESB AI Lab welcomes researchers, students, and volunteers who share our mission of advancing scientific research through AI and computational methods.
+ESB AI Lab welcomes researchers, students, volunteers, and community members who share our commitment to building AI for the soil, the water, the air, and the life they sustain. Whether you are a scientist exploring collaboration, a student seeking mentorship, or someone who wants to contribute time and expertise, we want to hear from you.
 
-**Researchers:** We welcome collaborations across our research focus areas. [Contact us](/contact/) to discuss potential projects.
+**Volunteer:** We are building research programs in computer vision for species assessment, genomic analysis for climate-resilient agriculture, NLP for endangered languages, and edge AI for field deployment. If you have skills in any of these areas and want to contribute, [contact us](/contact/).
+
+**Collaborate:** We welcome inquiries from researchers, institutions, and organizations interested in joint research, data partnerships, or sponsored research agreements. [Get in touch](/contact/).
 
 **Students:** Research mentorship opportunities are available through our [Education Program](/education/).
 
-**Volunteers and Supporters:** Learn how you can [support our mission](/donate/).
+**Support:** Learn how you can [donate to our mission](/donate/).
