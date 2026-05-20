@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /projects/
+permalink: /research/
 description: Current and past research projects in computational genomics, AI for agriculture, and climate resilience.
 nav: true
 nav_order: 2

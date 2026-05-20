@@ -34,6 +34,8 @@ ESB AI Lab Corporation is an independent nonprofit research organization develop
 
 ## Research Focus
 
+[View all research programs &rarr;](/research/)
+
 <div class="row" markdown="1">
 <div class="col-md-6" markdown="1">
 
