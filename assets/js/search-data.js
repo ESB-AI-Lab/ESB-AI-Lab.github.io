@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Current and past research projects in computational genomics, AI for agriculture, and climate resilience.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
         },{id: "nav-publications",
           title: "Publications",
