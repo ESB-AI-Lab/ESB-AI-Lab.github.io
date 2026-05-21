@@ -101,6 +101,9 @@ ninja.data = [{
           section: "News",},{id: "news-esb-ai-lab-executive-director-edwin-solares-attends-web-summit-vancouver-2026-looking-forward-to-connecting-with-researchers-entrepreneurs-and-technologists-exploring-how-artificial-intelligence-can-accelerate-scientific-discovery-and-address-global-challenges-in-food-security-conservation-and-climate-resilience",
           title: 'ESB AI Lab Executive Director Edwin Solares attends Web Summit Vancouver 2026. Looking...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-deep-learning-sex-determination-in-a-critically-endangered-species-red-abalone-was-published-in-frontiers-in-artificial-intelligence-this-work-demonstrates-that-convolutional-neural-networks-can-classify-reproductive-tissue-from-ultrasound-imagery-non-invasively-reducing-stress-on-animals-lowering-operational-costs-for-producers-and-improving-scalability-in-breeding-programs-this-is-the-first-application-of-deep-learning-to-sex-determination-in-abalone-and-opens-a-pathway-for-ai-assisted-species-assessment-in-aquaculture-more-broadly-read-the-paper",
+          title: 'Our paper on deep learning sex determination in a Critically Endangered species, Red...',
+          description: "",
           section: "News",},{id: "projects-sturgeon-ai",
           title: 'Sturgeon AI',
           description: "AI-assisted sex determination in sturgeon aquaculture",
@@ -126,6 +129,11 @@ ninja.data = [{
           description: "Open-source computer vision for agriculture and conservation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_cv_framework/";
+            },},{id: "projects-ai-directed-breeding",
+          title: 'AI-Directed Breeding',
+          description: "Developing machine learning methods to accelerate selective breeding decisions in agriculture and aquaculture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_ai_breeding/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
