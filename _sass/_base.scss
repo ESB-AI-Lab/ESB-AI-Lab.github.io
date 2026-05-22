@@ -1541,9 +1541,6 @@ mjx-container[jax="CHTML"][display="true"] {
   img {
     width: 100%;
     height: auto;
-    max-height: 400px;
-    object-fit: cover;
-    object-position: center;
     display: block;
   }
 
@@ -1572,10 +1569,6 @@ mjx-container[jax="CHTML"][display="true"] {
   .lab-banner {
     margin-bottom: 1.5rem;
 
-    img {
-      max-height: 250px;
-    }
-
     .banner-overlay h1 {
       font-size: 1.5rem;
     }
@@ -1585,10 +1578,6 @@ mjx-container[jax="CHTML"][display="true"] {
 @media (max-width: 480px) {
   .lab-banner {
     margin-bottom: 1rem;
-
-    img {
-      max-height: 180px;
-    }
 
     .banner-overlay h1 {
       font-size: 1.2rem;
