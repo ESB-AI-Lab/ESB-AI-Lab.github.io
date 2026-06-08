@@ -44,7 +44,7 @@ All board members serve in a volunteer capacity.
   <div class="col-sm-9">
     <h4>Edwin Alberto Solares, Ph.D.</h4>
     <p><strong>President / Executive Director</strong> (Board Class III)</p>
-    <p>Computational biologist and AI researcher. Lecturer at UC San Diego (Computer Science & Engineering, Halicioglu Data Science Institute). Founder of EdgeConsults, LLC.</p>
+    <p>Computational biologist and AI researcher. Lecturer at UC San Diego (Computer Science & Engineering, Halicioglu Data Science Institute). Founder of ESB AI Lab and of EdgeConsults, LLC.</p>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ All board members serve in a volunteer capacity.
   <div class="col-sm-9">
     <h4>Allison Renee Moreno, Ph.D.</h4>
     <p><strong>Secretary</strong> (Board Class II)</p>
-    <p>Ecology and evolutionary biology researcher at UC Santa Cruz.</p>
+    <p>Marine biogeochemist at UC Santa Cruz. Her research focuses surface particulate organic matter, community composition, and phytoplankton physiology and the factors controlling their variation. Utilizing field observations, laboratory experiments, and modeling techniques to address regional and large scales questions like: Can we establish the impacts and dynamics of climate change on deoxygenation and hypoxia? Dr. Moreno is also a founding board member of ESB AI Lab.</p>
   </div>
 </div>
 
