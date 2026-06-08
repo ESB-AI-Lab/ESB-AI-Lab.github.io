@@ -56,6 +56,12 @@ All board members serve in a volunteer capacity.
     <h4>Allison Renee Moreno, Ph.D.</h4>
     <p><strong>Secretary</strong> (Board Class II)</p>
     <p>Marine biogeochemist at UC Santa Cruz. Her research focuses surface particulate organic matter, community composition, and phytoplankton physiology and the factors controlling their variation. Utilizing field observations, laboratory experiments, and modeling techniques to address regional and large scales questions like: Can we establish the impacts and dynamics of climate change on deoxygenation and hypoxia? Dr. Moreno is also a founding board member of ESB AI Lab.</p>
+    <p>
+      <strong>Education:</strong><br>
+      Ph.D. Ecology & Evolutionary Biology, UC Irvine (2019)<br>
+      M.S. Biological Science, UC Irvine (2018)<br>
+      B.S. Marine Science, CSU Monterey Bay (2014)
+    </p>
   </div>
 </div>
 
