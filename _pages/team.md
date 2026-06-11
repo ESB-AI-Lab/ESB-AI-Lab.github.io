@@ -60,7 +60,7 @@ All board members serve in a volunteer capacity.
       <strong>Education:</strong><br>
       Ph.D. Ecology & Evolutionary Biology, UC Irvine (2019)<br>
       M.S. Biological Science, UC Irvine (2018)<br>
-      B.S. Marine Science, CSU Monterey Bay (2014)
+      B.S. Marine Science, California State University, Monterey Bay (2014)
     </p>
   </div>
 </div>
@@ -72,7 +72,16 @@ All board members serve in a volunteer capacity.
   <div class="col-sm-9">
     <h4>Kwasi M. Connor, Ph.D.</h4>
     <p><strong>Treasurer</strong> (Board Class I)</p>
-    <p>Ecology and evolutionary biology researcher at UC Irvine.</p>
+    <p>Assistant Professor of Ecology and Evolutionary Biology at the University of California, Irvine, and serves on the Board of Directors of ESB AI Lab. His research program employs integrative approaches spanning transcriptomics, metabolomics, and field ecology to characterize how marine invertebrates respond to environmental fluctuation, with the California mussel (Mytilus californianus) as his primary study system. Dr. Connor's work on circadian transcriptional regulation in intertidal organisms (Connor and Gracey, 2011, PNAS) and high-resolution metabolic profiling under simulated stress (Connor and Gracey, 2012, American Journal of Physiology) has produced 9 publications and over 550 citations. He holds a B.A. in Accounting from Morehouse College (1992), an M.S. in Biology from California State University, Los Angeles (2006), and a Ph.D. in Biological Sciences from the University of Southern California (2012), where his dissertation examined transcriptomic and metabolomic responses of M. californianus to field and simulated environmental stressors. A UC President's Postdoctoral Fellow and Ford Foundation Postdoctoral Fellow at UC Irvine, Dr. Connor brings domain expertise in marine genomics and environmental physiology that directly informs ESB AI Lab's mission to apply computational and AI-driven methods to aquaculture and marine biological systems.</p>
+    <p>
+      <strong>Education:</strong><br>
+      Ph.D. in Biological Sciences (Marine Environmental Biology), University of Southern California (2012)<br>
+      - Dissertation: "Field and Simulated Environmental Effects on the Transcriptome and Metabolome of Mussel ***Mytilus californianus***"<br>
+      M.S. in Biology, California State University, Los Angeles (2006)<br>
+      - Thesis: "Field Studies of the Relationships between Bottom Flow and Growth of the mussel ***Mytilus californianus***"<br>
+      California Teaching Credential in Biological Sciences, CSULA — (2005)<br>
+      B.A. in Accounting, Morehouse College, Atlanta, GA (1992)
+    </p>
   </div>
 </div>
 
