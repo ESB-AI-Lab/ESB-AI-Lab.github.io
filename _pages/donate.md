@@ -28,8 +28,8 @@ Zero platform fees; 100% of your donation goes to ESB AI Lab.
 Make checks payable to "ESB AI Lab Corporation" and mail to:
 
 ESB AI Lab Corporation
-2108 N ST #7133
-Sacramento, CA 95816
+1455 Frazee Rd, Ste 500
+San Diego, CA 92108
 
 ### Tax Deductibility
 
