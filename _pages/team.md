@@ -61,9 +61,9 @@ All board members serve in a volunteer capacity.
     <p>
       <strong>Education:</strong><br>
       Ph.D. in Biological Sciences (Marine Environmental Biology), University of Southern California (2012)<br>
-      - Dissertation: "Field and Simulated Environmental Effects on the Transcriptome and Metabolome of Mussel ***Mytilus californianus***"<br>
+      - Dissertation: "Field and Simulated Environmental Effects on the Transcriptome and Metabolome of Mussel <em>Mytilus californianus</em>"<br>
       M.S. in Biology, California State University, Los Angeles (2006)<br>
-      - Thesis: "Field Studies of the Relationships between Bottom Flow and Growth of the mussel ***Mytilus californianus***"<br>
+      - Thesis: "Field Studies of the Relationships between Bottom Flow and Growth of the mussel <em>Mytilus californianus</em>"<br>
       California Teaching Credential in Biological Sciences, CSULA — (2005)<br>
       B.A. in Accounting, Morehouse College, Atlanta, GA (1992)
     </p>
