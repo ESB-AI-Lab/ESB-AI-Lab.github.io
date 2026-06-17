@@ -7,16 +7,18 @@ nav: true
 nav_order: 7
 ---
 
-## Founder and Executive Director
+## Board of Directors
 
-<div class="row">
+All board members serve in a volunteer capacity.
+
+<div class="row mt-4">
   <div class="col-sm-3">
     <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded" alt="Edwin Solares">
   </div>
   <div class="col-sm-9">
-    <h4><a href="https://edwinsolares.com">Edwin Solares, Ph.D.</a></h4>
-    <p><strong>Founder, President & Executive Director</strong></p>
-    <p>Edwin is a computational biologist bridging AI, evolutionary genomics, and climate-resilient agriculture. His research has been published in <em>Nature Plants</em>, <em>PNAS</em>, <em>Genome Research</em>, and other leading journals.</p>
+    <h4><a href="https://edwinsolares.com">Edwin Alberto Solares, Ph.D.</a></h4>
+    <p><strong>Founder, President & Executive Director</strong> (Board Class III)</p>
+    <p>Computational biologist and AI researcher. Lecturer at UC San Diego (Computer Science & Engineering, Halicioglu Data Science Institute). His research has been published in <em>Nature Plants</em>, <em>PNAS</em>, <em>Genome Research</em>, and other leading journals.</p>
     <p>
       <strong>Education:</strong><br>
       Ph.D. Ecology & Evolutionary Biology, UC Irvine (2021)<br>
@@ -28,23 +30,6 @@ nav_order: 7
       <a href="https://orcid.org/0000-0002-3220-4927">ORCID</a> |
       <a href="https://github.com/ESB-AI-Lab">GitHub</a>
     </p>
-  </div>
-</div>
-
----
-
-## Board of Directors
-
-All board members serve in a volunteer capacity.
-
-<div class="row mt-4">
-  <div class="col-sm-3">
-    <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded" alt="Edwin Solares">
-  </div>
-  <div class="col-sm-9">
-    <h4>Edwin Alberto Solares, Ph.D.</h4>
-    <p><strong>President / Executive Director</strong> (Board Class III)</p>
-    <p>Computational biologist and AI researcher. Lecturer at UC San Diego (Computer Science & Engineering, Halicioglu Data Science Institute). Founder of ESB AI Lab and of EdgeConsults, LLC.</p>
   </div>
 </div>
 
