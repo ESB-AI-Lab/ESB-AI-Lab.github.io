@@ -83,8 +83,11 @@ We are developing an open-source, accessible computer vision framework that enab
 - **<1 week** from data to deployed model
 - Works on limited datasets (100s of images with augmentation)
 
+## Code Repositories
+
+- **[DynamicDL](https://github.com/ESB-AI-Lab/DynamicDL):** Dynamic deep learning framework with GUI for accessible model training and deployment
+- **[DynamicDL-Headless](https://github.com/ESB-AI-Lab/DynamicDL-Headless):** Command-line version for server and HPC environments
+
 ## Get Involved
 
 **For Beta Testing:** [Contact us](/contact/) with your use case
-
-**Code Repository (coming soon):** github.com/ESB-AI-Lab/cv-framework

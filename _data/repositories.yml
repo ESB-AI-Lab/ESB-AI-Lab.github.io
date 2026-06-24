@@ -4,4 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - ESB-AI-Lab/DynamicDL
+  - ESB-AI-Lab/DynamicDL-Headless
   - ESB-AI-Lab/ESB-AI-Lab.github.io
