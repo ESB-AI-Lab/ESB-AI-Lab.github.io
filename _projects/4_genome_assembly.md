@@ -54,6 +54,10 @@ We demonstrated that combining low-coverage long-read sequencing (PacBio, ~20-30
 - Contributed to the broader movement of making high-quality genomics accessible to resource-limited labs
 - Continuous, accurate assemblies from this work underpin downstream analyses across multiple ESB AI Lab research programs, including crop genomics, conservation genetics, and structural variant discovery
 
+## Code Repositories
+
+- **[HapSolo](https://github.com/ESB-AI-Lab/HapSolo):** Optimization tool for reducing haplotigs and duplicate contigs in diploid genome assemblies
+
 ## Publication
 
 Solares, E.A., Chakraborty, M., Miller, D.E., et al. (2018). "Rapid Low-Cost Assembly of the *Drosophila melanogaster* Reference Genome Using Low-Coverage, Long-Read Sequencing." *G3: Genes, Genomes, Genetics*, 8(10), 3143-3154.

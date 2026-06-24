@@ -85,6 +85,7 @@ We are developing an open-source, accessible computer vision framework that enab
 
 ## Code Repositories
 
+- **[CVTraining](https://github.com/ESB-AI-Lab/CVTraining):** Computer vision training pipeline for domain-specific image classification
 - **[DynamicDL](https://github.com/ESB-AI-Lab/DynamicDL):** Dynamic deep learning framework with GUI for accessible model training and deployment
 - **[DynamicDL-Headless](https://github.com/ESB-AI-Lab/DynamicDL-Headless):** Command-line version for server and HPC environments
 
