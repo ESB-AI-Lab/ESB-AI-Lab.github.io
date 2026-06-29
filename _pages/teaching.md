@@ -17,33 +17,6 @@ I believe that education should be accessible, engaging, and immediately applica
 
 ---
 
-## Current Courses
-
-### DSC 232R: Big Data Analytics Using Spark
-**Master of Data Science Program, Halicioglu Data Science Institute, UC San Diego**
-
-An advanced graduate course focused on applying machine learning to massive datasets using Apache Spark and distributed computing.
-
-**Topics Covered:**
-- Distributed computing fundamentals
-- Apache Spark architecture and optimization
-- PySpark programming for data processing
-- Supervised learning at scale (regression, classification)
-- Machine Learning pipelines with MLlib
-- Big data file formats (Parquet, ORC)
-- Performance tuning and optimization
-
-**Technologies:** Apache Spark, PySpark, MLlib, Databricks, AWS EMR, Google Cloud Dataproc
-
----
-
-### CSE 150A: Introduction to Artificial Intelligence
-**Computer Science and Engineering Department, UC San Diego**
-
-Fundamental concepts in artificial intelligence including search algorithms, knowledge representation, probabilistic reasoning, and machine learning foundations.
-
----
-
 ## Teaching Approach
 
 ### Making Complex Topics Accessible
@@ -57,17 +30,11 @@ Fundamental concepts in artificial intelligence including search algorithms, kno
 
 ## Mentorship
 
-### Current Students
-
-**Graduate Students:**
-- Mentoring MDS students on capstone projects involving genomics and ML
-- Advising on thesis topics in computational biology
-- Career guidance for data science positions
-
-**Undergraduate Researchers:**
-- Supervising research projects in computer vision for agriculture
+**Research Mentees:**
+- Supervising research projects in computer vision for agriculture and aquaculture
 - Teaching bioinformatics pipeline development
-- Preparing students for graduate school applications
+- Advising on thesis topics in computational biology
+- Career guidance for data science and research positions
 
 ### Alumni Outcomes
 
@@ -79,4 +46,4 @@ Former students have gone on to PhD programs at top institutions, data science p
 
 Interested in guest lectures, workshop facilitation, or curriculum consultation?
 
-**Email:** esolares [at] ucsd [dot] edu
+**Email:** info [at] esbailab [dot] org
