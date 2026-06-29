@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-education",
           title: "Education",
-          description: "Workshops, short courses, and training in AI, data science, and computational biology.",
+          description: "Intensive bootcamps, workshops, and training in AI, machine learning, bioinformatics, and scientific computing.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/education/";
