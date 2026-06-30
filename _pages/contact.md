@@ -33,7 +33,7 @@ nav_order: 6
   .submit-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 4px; }
   .submit-btn {
     font-family: inherit; font-size: 0.95rem; font-weight: 600; color: #fff;
-    background: var(--global-theme-color, #6c3082); border: none; border-radius: 4px;
+    background: #2c5f41; border: none; border-radius: 4px;
     padding: 11px 28px; cursor: pointer; transition: opacity 0.2s;
   }
   .submit-btn:hover { opacity: 0.85; }
