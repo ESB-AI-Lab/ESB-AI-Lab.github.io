@@ -23,7 +23,7 @@ Tell us which programs interest you and when you're available. We'll notify you 
 
 ## Bootcamp Programs
 
-Bootcamps deliver 32 contact hours of hands-on instruction. Schedule formats are flexible: weekday intensives, weekend intensives, half-day sessions, or evening series. All bootcamps include an ESB AI Lab laptop pre-configured with required software, compute infrastructure access, meals during sessions, all course materials, and a Certificate of Completion.
+Bootcamps deliver up to 32 contact hours of hands-on instruction. Schedule formats are flexible: weekday intensives, weekend intensives, half-day sessions, or evening series. All bootcamps include an ESB AI Lab laptop pre-configured with required software, compute infrastructure access, meals during sessions, all course materials, and a Certificate of Completion.
 
 ### Applied Bioinformatics for Genomics Research
 
