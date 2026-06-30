@@ -1588,6 +1588,76 @@ mjx-container[jax="CHTML"][display="true"] {
 
 // News Page Styling
 .news {
+  .news-date-blocks {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .news-date-block-item {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    padding: 20px 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .date-block {
+    flex-shrink: 0;
+    width: 72px;
+    background: #2c5f41;
+    color: #fff;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px 8px;
+
+    .date-month {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      opacity: 0.9;
+    }
+
+    .date-day {
+      font-size: 1.6rem;
+      font-weight: 700;
+      line-height: 1.2;
+    }
+
+    .date-year {
+      font-size: 0.7rem;
+      opacity: 0.8;
+    }
+  }
+
+  .news-body {
+    flex: 1;
+    font-size: 0.93rem;
+    line-height: 1.65;
+    color: var(--global-text-color);
+
+    a {
+      color: #2c5f41;
+
+      &:hover {
+        color: #1a3d28;
+      }
+    }
+
+    .news-title {
+      color: #2c5f41;
+
+      &:hover {
+        color: #1a3d28;
+      }
+    }
+  }
+
   .post-list {
     list-style: none;
     padding: 0;

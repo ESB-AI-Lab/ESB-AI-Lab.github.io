@@ -114,6 +114,19 @@ html[data-theme="dark"] {
   --global-danger-block-text: #ffb9b9;
   --global-danger-block-title: #ffe0e0;
 
+  .news .news-body a,
+  .news .news-body .news-title {
+    color: #6abf8a;
+
+    &:hover {
+      color: #8dd4a6;
+    }
+  }
+
+  .news .date-block {
+    background: #3a7d56;
+  }
+
   .only-light {
     display: none;
   }

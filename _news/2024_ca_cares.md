@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Edwin Solares awarded $50,000 through the University of California, San Diego under the CA CARES program to support computational research in bioinformatics and AI. This funding was awarded to and administered by UCSD. The research and expertise developed through this work inform the research directions ESB AI Lab is building toward.
+**Dr. Edwin Solares awarded $50,000 through the University of California, San Diego under the CA CARES program.** This funding supports computational research in bioinformatics and AI. The award was administered by UCSD. The research and expertise developed through this work inform the research directions ESB AI Lab is building toward.

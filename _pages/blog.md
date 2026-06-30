@@ -10,21 +10,19 @@ description: Latest updates from ESB AI Lab Corporation
 <div class="news">
   {% assign news = site.news | reverse %}
   {% if news.size > 0 %}
-    <ul class="post-list">
+    <ul class="news-date-blocks">
       {% for item in news %}
-        <li>
-          <h3>
-            {% if item.inline %}
-              <span class="news-date">{{ item.date | date: '%B %d, %Y' }}</span>
-            {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              <span class="news-date">{{ item.date | date: '%B %d, %Y' }}</span>
-            {% endif %}
-          </h3>
-          <div class="news-content">
+        <li class="news-date-block-item">
+          <div class="date-block">
+            <div class="date-month">{{ item.date | date: '%b' }}</div>
+            <div class="date-day">{{ item.date | date: '%d' }}</div>
+            <div class="date-year">{{ item.date | date: '%Y' }}</div>
+          </div>
+          <div class="news-body">
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
+              <strong><a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br>
               {{ item.description }}
             {% endif %}
           </div>

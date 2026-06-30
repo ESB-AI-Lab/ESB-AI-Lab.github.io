@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper published in *Genome Research* - "Diverse patterns of secondary structure across genes and transposable elements are associated with siRNA production and epigenetic fate"
+**Paper published in *Genome Research*.** "Diverse patterns of secondary structure across genes and transposable elements are associated with siRNA production and epigenetic fate."
