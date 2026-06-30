@@ -1648,18 +1648,18 @@ mjx-container[jax="CHTML"][display="true"] {
     color: var(--global-text-color);
 
     a {
-      color: #2c5f41;
+      color: var(--global-theme-color);
 
       &:hover {
-        color: #1a3d28;
+        color: var(--global-hover-color);
       }
     }
 
     .news-title {
-      color: #2c5f41;
+      color: var(--global-theme-color);
 
       &:hover {
-        color: #1a3d28;
+        color: var(--global-hover-color);
       }
     }
   }
