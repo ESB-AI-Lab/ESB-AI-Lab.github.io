@@ -1610,10 +1610,16 @@ mjx-container[jax="CHTML"][display="true"] {
     flex-shrink: 0;
     width: 72px;
     background: #2c5f41;
-    color: #fff;
+    color: #fff !important;
     border-radius: 8px;
     text-align: center;
     padding: 10px 8px;
+
+    .date-month,
+    .date-day,
+    .date-year {
+      color: #fff !important;
+    }
 
     .date-month {
       font-size: 0.7rem;
