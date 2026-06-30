@@ -756,13 +756,15 @@ footer.sticky-bottom {
         margin-bottom: 0.5rem;
 
         abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          background-color: #2c5f41;
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: #fff !important;
 
           a {
-            color: white;
+            color: #fff !important;
 
             &:hover {
               text-decoration: none;
