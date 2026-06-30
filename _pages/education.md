@@ -13,10 +13,10 @@ ESB AI Lab offers intensive, hands-on educational programs in AI, machine learni
 
 Programs are designed for working scientists and researchers. No prior programming experience is required for introductory offerings.
 
-<div style="background: #f0f4f8; border-left: 4px solid #1a73e8; padding: 1em 1.2em; margin: 1.5em 0; border-radius: 4px;">
-<strong>Interest Form (Coming Soon)</strong><br>
+<div style="background: var(--global-tip-block-bg); border-left: 4px solid var(--global-tip-block); color: var(--global-tip-block-text); padding: 1em 1.2em; margin: 1.5em 0; border-radius: 4px;">
+<strong style="color: var(--global-tip-block-title);">Interest Form (Coming Soon)</strong><br>
 Tell us which programs interest you and when you're available. We'll notify you when registration opens. No commitment, no cost.<br>
-<em>In the meantime, <a href="/contact/">contact us</a> to be added to our notification list.</em>
+<em>In the meantime, <a href="/contact/" style="color: var(--global-tip-block-title);">contact us</a> to be added to our notification list.</em>
 </div>
 
 ---
