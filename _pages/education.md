@@ -13,11 +13,87 @@ ESB AI Lab offers intensive, hands-on educational programs in AI, machine learni
 
 Programs are designed for working scientists and researchers. No prior programming experience is required for introductory offerings.
 
+---
+
+## Registration
+
+Registration for paid programs will be available through [Zeffy](https://www.zeffy.com/en-US/donation-form/supporting-esb-ai-lab-research-and-mentorship). Program dates are scheduled based on demand from our interest form.
+
 <div style="background: var(--global-tip-block-bg); border-left: 4px solid var(--global-tip-block); color: var(--global-tip-block-text); padding: 1em 1.2em; margin: 1.5em 0; border-radius: 4px;">
 <strong style="color: var(--global-tip-block-title);">Interest Form (Coming Soon)</strong><br>
 Tell us which programs interest you and when you're available. We'll notify you when registration opens. No commitment, no cost.<br>
 <em>In the meantime, <a href="/contact/" style="color: var(--global-tip-block-title);">contact us</a> to be added to our notification list.</em>
 </div>
+
+Questions? [Contact us](/contact/).
+
+---
+
+## Free Seminars and Resources
+
+### Monthly Public Seminar Series
+
+Free, virtual, 1-hour evening sessions open to everyone. Topics align with our paid programs and showcase real research applications of AI and computational methods. Hosted on Luma. Recordings archived and publicly available.
+
+*Seminar schedule coming soon.*
+
+### Open Educational Resources
+
+Tutorials, code notebooks, datasets, and video lectures published under permissive licenses (CC-BY for content, MIT for code). Free to use, adapt, and redistribute.
+
+---
+
+## Workshop Programs
+
+Workshops are shorter, focused programs on a specific skill or topic. In-person in San Diego, ESB AI Lab laptops provided, materials and Certificate of Completion included.
+
+### Linux for Scientists (8 hours)
+
+Learn the command line from scratch: navigation, text processing with grep/sed/awk, shell scripting, SSH, and Git basics. The recommended starting point before most bootcamp programs.
+
+**For:** Scientists who have never used a terminal | **Prerequisites:** None
+
+### Introduction to Containers and Docker (8 hours)
+
+Get started with Docker: pull images, run containers, write Dockerfiles, Docker Compose basics, and Singularity/Apptainer for HPC.
+
+**For:** Researchers who want reproducible environments | **Prerequisites:** Basic Linux
+
+### Docker for Reproducible Research (8 hours)
+
+Design container strategies for making computational research reproducible: version-pinning, packaging pipelines, Zenodo archiving, and long-term reproducibility planning.
+
+**For:** Researchers who know Docker basics | **Prerequisites:** Basic Docker
+
+### Introduction to Genetics and Genomics (8 hours)
+
+A biology primer for computational people. Covers molecular biology fundamentals, genome organization, sequencing technologies, key genomics concepts, and current frontiers.
+
+**For:** Data scientists and computational researchers entering genomics | **Prerequisites:** None
+
+### HPC and Cloud Computing for Research (8 hours)
+
+Understand the research computing landscape. Covers Slurm, batch jobs, parallelization, and intro to AWS/cloud cost optimization.
+
+**For:** Researchers who need more computing power | **Prerequisites:** Basic Linux
+
+### Building AI Chatbots for Research (4 hours)
+
+Build a domain-specific AI assistant using LLM APIs, prompt engineering, and retrieval-augmented generation (RAG) for your own documents.
+
+**For:** Researchers wanting to build useful AI tools for their group | **Prerequisites:** Basic Python
+
+### 3D Printing for Science and Prototyping (8 hours)
+
+Design, slice, and print functional objects for your lab. Covers CAD (OpenSCAD, FreeCAD), FDM printing, material selection, and design for scientific applications.
+
+**For:** Researchers who want custom lab equipment or field housings | **Prerequisites:** None
+
+### Robotics for Scientific Data Collection (8 hours)
+
+Build sensor systems and automated data collection platforms using Arduino, Raspberry Pi, and scientific sensors. Build a working prototype you take home.
+
+**For:** Field researchers and lab scientists wanting custom data collection | **Prerequisites:** None
 
 ---
 
@@ -111,84 +187,8 @@ Build production-grade containerized services. Covers reverse proxies (Nginx/Tra
 
 ---
 
-## Workshop Programs
-
-Workshops are shorter, focused programs on a specific skill or topic. In-person in San Diego, ESB AI Lab laptops provided, materials and Certificate of Completion included.
-
-### Linux for Scientists (8 hours)
-
-Learn the command line from scratch: navigation, text processing with grep/sed/awk, shell scripting, SSH, and Git basics. The recommended starting point before most bootcamp programs.
-
-**For:** Scientists who have never used a terminal | **Prerequisites:** None
-
-### Introduction to Containers and Docker (8 hours)
-
-Get started with Docker: pull images, run containers, write Dockerfiles, Docker Compose basics, and Singularity/Apptainer for HPC.
-
-**For:** Researchers who want reproducible environments | **Prerequisites:** Basic Linux
-
-### Docker for Reproducible Research (8 hours)
-
-Design container strategies for making computational research reproducible: version-pinning, packaging pipelines, Zenodo archiving, and long-term reproducibility planning.
-
-**For:** Researchers who know Docker basics | **Prerequisites:** Basic Docker
-
-### Introduction to Genetics and Genomics (8 hours)
-
-A biology primer for computational people. Covers molecular biology fundamentals, genome organization, sequencing technologies, key genomics concepts, and current frontiers.
-
-**For:** Data scientists and computational researchers entering genomics | **Prerequisites:** None
-
-### HPC and Cloud Computing for Research (8 hours)
-
-Understand the research computing landscape. Covers Slurm, batch jobs, parallelization, and intro to AWS/cloud cost optimization.
-
-**For:** Researchers who need more computing power | **Prerequisites:** Basic Linux
-
-### Building AI Chatbots for Research (4 hours)
-
-Build a domain-specific AI assistant using LLM APIs, prompt engineering, and retrieval-augmented generation (RAG) for your own documents.
-
-**For:** Researchers wanting to build useful AI tools for their group | **Prerequisites:** Basic Python
-
-### 3D Printing for Science and Prototyping (8 hours)
-
-Design, slice, and print functional objects for your lab. Covers CAD (OpenSCAD, FreeCAD), FDM printing, material selection, and design for scientific applications.
-
-**For:** Researchers who want custom lab equipment or field housings | **Prerequisites:** None
-
-### Robotics for Scientific Data Collection (8 hours)
-
-Build sensor systems and automated data collection platforms using Arduino, Raspberry Pi, and scientific sensors. Build a working prototype you take home.
-
-**For:** Field researchers and lab scientists wanting custom data collection | **Prerequisites:** None
-
----
-
-## Free Programs
-
-### Monthly Public Seminar Series
-
-Free, virtual, 1-hour evening sessions open to everyone. Topics align with our paid programs and showcase real research applications of AI and computational methods. Hosted on Luma. Recordings archived and publicly available.
-
-*Seminar schedule coming soon.*
-
-### Open Educational Resources
-
-Tutorials, code notebooks, datasets, and video lectures published under permissive licenses (CC-BY for content, MIT for code). Free to use, adapt, and redistribute.
-
----
-
-## Accessibility and Scholarships
+## Scholarships and Accessibility
 
 ESB AI Lab is committed to broadening scientific participation. All programs include a published sliding-scale fee structure and scholarship provisions for participants from underserved communities and minority-serving institutions.
 
 Many employers cover professional development costs. We accept institutional purchase orders (net 30) and provide all documentation your HR or finance department needs for reimbursement.
-
----
-
-## Registration
-
-Registration for paid programs will be available through [Zeffy](https://www.zeffy.com/en-US/donation-form/supporting-esb-ai-lab-research-and-mentorship). Program dates are scheduled based on demand from our interest form.
-
-Questions? [Contact us](/contact/).
