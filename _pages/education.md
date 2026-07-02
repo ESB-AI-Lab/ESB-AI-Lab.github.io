@@ -46,7 +46,7 @@ nav_order: 4
     <p>Program registration is coming soon. Dates are scheduled based on demand; tell us what interests you and we will build the schedule around you.</p>
     <div class="edu-reg-buttons">
       <a href="/interest-form/" class="edu-btn-primary">Interest Form &rarr;</a>
-      <a href="/contact/" class="edu-btn-secondary">Contact Us</a>
+      <a href="/contact/" class="edu-btn-primary">Contact Us</a>
     </div>
   </div>
 </section>
