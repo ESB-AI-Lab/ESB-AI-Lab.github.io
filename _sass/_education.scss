@@ -5,7 +5,7 @@
 .education-page {
   // Hero banner
   .edu-hero {
-    background: var(--global-theme-color);
+    background: #2c5f41;
     color: #ffffff;
     padding: 2.5rem 2rem 2rem;
     border-radius: 12px;
@@ -142,13 +142,27 @@
   }
 
   .edu-reg-main {
-    background: var(--global-theme-color);
+    background: #2c5f41;
     border-radius: 12px;
     padding: 2rem;
     color: #ffffff;
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    .coming-tag {
+      display: inline-block;
+      font-size: 0.6rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      background: rgba(255,255,255,0.2);
+      color: #ffffff;
+      padding: 0.2rem 0.55rem;
+      border-radius: 4px;
+      margin-bottom: 0.65rem;
+      width: fit-content;
+    }
 
     h3 {
       font-size: 1.25rem;

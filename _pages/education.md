@@ -42,11 +42,11 @@ nav_order: 4
 <section class="edu-section" id="registration">
   <div class="edu-reg-container">
     <div class="edu-reg-main">
-      <h3>Register for Programs</h3>
-      <p>Paid programs are available through Zeffy. Program dates are scheduled based on demand; tell us what interests you and we will build the schedule around you.</p>
+      <span class="coming-tag">Coming Soon</span>
+      <h3>Registration</h3>
+      <p>Program registration is coming soon. Dates are scheduled based on demand; tell us what interests you and we will build the schedule around you.</p>
       <div class="edu-reg-buttons">
-        <a href="https://www.zeffy.com/en-US/donation-form/supporting-esb-ai-lab-research-and-mentorship" class="edu-btn-primary">Register on Zeffy &rarr;</a>
-        <a href="/contact/" class="edu-btn-secondary">Contact Us</a>
+        <a href="/contact/" class="edu-btn-primary">Contact Us</a>
       </div>
     </div>
     <div class="edu-interest-box">
