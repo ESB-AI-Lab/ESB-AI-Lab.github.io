@@ -287,14 +287,14 @@
       box-shadow: 0 4px 12px rgba(0,0,0,0.06);
     }
 
-    .badge {
+    span.badge {
       display: inline-block;
       font-size: 0.6rem;
       font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.06em;
       background: var(--global-tip-block-bg);
-      color: var(--global-theme-color);
+      color: #2c5f41 !important;
       padding: 0.2rem 0.55rem;
       border-radius: 6px;
       margin-bottom: 0.7rem;
@@ -534,6 +534,10 @@
 
 // Dark mode overrides
 html[data-theme="dark"] .education-page {
+  .edu-seminar-card span.badge {
+    color: #6abf8a !important;
+  }
+
   .edu-interest-box {
     background: #2a2520;
     border-color: #3a3228;

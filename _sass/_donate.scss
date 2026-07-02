@@ -1,0 +1,274 @@
+/*******************************************************************************
+ * Donate page styles
+ ******************************************************************************/
+
+.donate-page {
+
+  /* Split hero */
+  .donate-split-hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    border-radius: 16px;
+    overflow: hidden;
+    margin-bottom: 2.5rem;
+    border: 1px solid var(--global-divider-color);
+
+    @media (max-width: 700px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .donate-split-left {
+    background: #2c5f41;
+    color: #ffffff;
+    padding: 2.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    &, h1, h2, h3, p, span, div, strong {
+      color: #ffffff !important;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 0.75rem;
+      line-height: 1.2;
+    }
+
+    p {
+      font-size: 0.88rem;
+      opacity: 0.88;
+      line-height: 1.65;
+    }
+  }
+
+  .donate-overhead-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: rgba(255,255,255,0.15);
+    border-radius: 6px;
+    padding: 0.4rem 0.75rem;
+    margin-top: 1.25rem;
+    font-size: 0.78rem;
+    font-weight: 500;
+    width: fit-content;
+
+    strong {
+      font-size: 1.1rem;
+      font-weight: 700;
+    }
+  }
+
+  .donate-split-right {
+    background: var(--global-card-bg-color);
+    padding: 2.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  a.donate-method {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 10px;
+    text-decoration: none !important;
+    color: var(--global-text-color) !important;
+    transition: border-color 0.2s, box-shadow 0.2s;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      text-decoration: none !important;
+    }
+  }
+
+  .donate-method-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    flex-shrink: 0;
+
+    &.zeffy {
+      background: var(--global-tip-block-bg);
+      color: var(--global-theme-color);
+    }
+
+    &.paypal {
+      background: #e8f0fe;
+      color: #003087;
+    }
+  }
+
+  .donate-method-text {
+    h3 {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.1rem;
+      color: var(--global-text-color) !important;
+    }
+
+    p {
+      font-size: 0.72rem;
+      color: var(--global-text-color-light) !important;
+      margin: 0;
+    }
+  }
+
+  .donate-zero-tag {
+    display: inline-block;
+    font-size: 0.55rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    background: var(--global-tip-block-bg);
+    color: #2c5f41;
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+
+  .donate-method-arrow {
+    margin-left: auto;
+    font-size: 1rem;
+    color: var(--global-text-color-light);
+  }
+
+  /* Impact section */
+  .donate-eyebrow {
+    font-size: 0.68rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--global-theme-color);
+    margin-bottom: 0.3rem;
+  }
+
+  .donate-stitle {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+  }
+
+  .donate-sdesc {
+    font-size: 0.88rem;
+    color: var(--global-text-color-light);
+    max-width: 540px;
+    margin-bottom: 1.5rem;
+  }
+
+  .donate-impact-strip {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 2.5rem;
+  }
+
+  .donate-impact-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: var(--global-tip-block-bg);
+    border-radius: 20px;
+    padding: 0.45rem 1rem;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--global-text-color);
+
+    .dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--global-theme-color);
+      display: inline-block;
+    }
+  }
+
+  /* Bottom cards */
+  .donate-bottom-divider {
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 2.5rem;
+    margin-top: 0.5rem;
+  }
+
+  .donate-bottom-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+
+    @media (max-width: 600px) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .donate-bottom-card {
+    background: #faf5ee;
+    border: 1px solid #ede4d4;
+    border-radius: 12px;
+    padding: 1.5rem;
+
+    h3 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 0.82rem;
+      color: var(--global-text-color-light);
+      line-height: 1.6;
+      margin-bottom: 0.5rem;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .donate-address {
+    font-size: 0.82rem;
+    line-height: 1.65;
+    color: var(--global-text-color);
+  }
+
+  .donate-ein {
+    display: inline-block;
+    font-family: monospace;
+    font-size: 0.78rem;
+    font-weight: 600;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    margin-top: 0.25rem;
+  }
+}
+
+// Dark mode overrides
+html[data-theme="dark"] .donate-page {
+  .donate-method-icon.paypal {
+    background: #1a2540;
+    color: #5a9bf5;
+  }
+
+  .donate-zero-tag {
+    color: #6abf8a;
+  }
+
+  .donate-bottom-card {
+    background: #2a2520;
+    border-color: #3a3228;
+  }
+}

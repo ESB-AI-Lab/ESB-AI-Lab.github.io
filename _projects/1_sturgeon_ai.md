@@ -18,7 +18,7 @@ related_publications: false
 
 ## Overview
 
-This project develops artificial intelligence and machine learning approaches to revolutionize sex determination in sturgeon aquaculture. By combining computer vision and genomics, we aim to make sturgeon farming more economically viable and environmentally sustainable.
+This project develops artificial intelligence and machine learning approaches to revolutionize sex determination in sturgeon aquaculture. By applying computer vision, we aim to make sturgeon farming more economically viable and environmentally sustainable.
 
 ## The Problem
 
@@ -34,11 +34,6 @@ Sturgeon aquaculture faces a critical challenge: females (caviar producers) cann
 - Non-invasive imaging of external morphology
 - Deep learning models trained on thousands of fish images
 - Real-time classification enabling rapid decision-making
-
-### Genomic Markers
-- Identification of sex-specific DNA sequences
-- Development of PCR-based diagnostic tests
-- Integration of genetic and phenotypic data
 
 ## Current Results
 
