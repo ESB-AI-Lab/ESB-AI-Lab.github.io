@@ -52,8 +52,11 @@ nav_order: 4
     <div class="edu-interest-box">
       <h4>Interest Form</h4>
       <p>Tell us which programs interest you and when you are available. No commitment, no cost. We will notify you when registration opens.</p>
-      <p style="margin-top: 0.6rem;"><a href="https://tally.so/r/obpLWe" class="edu-btn-primary" style="display:inline-flex; margin-top: 0.5rem;">Fill Out Interest Form &rarr;</a></p>
     </div>
+  </div>
+
+  <div class="edu-form-embed">
+    <iframe data-tally-src="https://tally.so/embed/obpLWe?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="ESB AI Lab Education Interest Form"></iframe>
   </div>
 </section>
 
@@ -431,3 +434,5 @@ nav_order: 4
 </section>
 
 </div>
+
+<script src="https://tally.so/widgets/embed.js"></script>

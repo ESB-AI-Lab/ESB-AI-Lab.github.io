@@ -225,27 +225,13 @@
   }
 
   .edu-interest-box {
-    background: var(--global-tip-block-bg);
-    border: 1px solid var(--global-divider-color);
+    background: #faf5ee;
+    border: 1px solid #ede4d4;
     border-radius: 12px;
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
-
-    .coming-tag {
-      display: inline-block;
-      font-size: 0.6rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      background: #d47a2e;
-      color: #ffffff;
-      padding: 0.2rem 0.55rem;
-      border-radius: 4px;
-      margin-bottom: 0.65rem;
-      width: fit-content;
-    }
 
     h4 {
       font-size: 0.95rem;
@@ -259,9 +245,14 @@
       line-height: 1.55;
     }
 
-    a {
-      color: var(--global-theme-color);
-      font-weight: 500;
+    .edu-btn-primary {
+      background: #d47a2e;
+      color: #ffffff;
+
+      &:hover {
+        background: #c06d24;
+        color: #ffffff;
+      }
     }
   }
 
@@ -517,10 +508,30 @@
       line-height: 1.55;
     }
   }
+
+  // Form embed
+  .edu-form-embed {
+    margin-top: 1.5rem;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    min-height: 400px;
+
+    iframe {
+      border: none;
+      width: 100%;
+    }
+  }
 }
 
-// Dark mode domain tag overrides
+// Dark mode overrides
 html[data-theme="dark"] .education-page {
+  .edu-interest-box {
+    background: #2a2520;
+    border-color: #3a3228;
+  }
+
   .edu-program-card {
     &.domain-ml { border-left-color: #5a8ec4; }
     &.domain-infra { border-left-color: #9a8e7e; }
