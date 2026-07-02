@@ -40,23 +40,14 @@ nav_order: 4
 
 <!-- Registration -->
 <section class="edu-section" id="registration">
-  <div class="edu-reg-container">
-    <div class="edu-reg-main">
-      <span class="coming-tag">Coming Soon</span>
-      <h3>Registration</h3>
-      <p>Program registration is coming soon. Dates are scheduled based on demand; tell us what interests you and we will build the schedule around you.</p>
-      <div class="edu-reg-buttons">
-        <a href="/contact/" class="edu-btn-primary">Contact Us</a>
-      </div>
+  <div class="edu-reg-main">
+    <span class="coming-tag">Coming Soon</span>
+    <h3>Registration</h3>
+    <p>Program registration is coming soon. Dates are scheduled based on demand; tell us what interests you and we will build the schedule around you.</p>
+    <div class="edu-reg-buttons">
+      <a href="/interest-form/" class="edu-btn-primary">Interest Form &rarr;</a>
+      <a href="/contact/" class="edu-btn-secondary">Contact Us</a>
     </div>
-    <div class="edu-interest-box">
-      <h4>Interest Form</h4>
-      <p>Tell us which programs interest you and when you are available. No commitment, no cost. We will notify you when registration opens.</p>
-    </div>
-  </div>
-
-  <div class="edu-form-embed">
-    <iframe data-tally-src="https://tally.so/embed/obpLWe?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="ESB AI Lab Education Interest Form"></iframe>
   </div>
 </section>
 
@@ -434,5 +425,3 @@ nav_order: 4
 </section>
 
 </div>
-
-<script src="https://tally.so/widgets/embed.js"></script>
