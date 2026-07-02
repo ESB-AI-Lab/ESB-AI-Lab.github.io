@@ -50,10 +50,9 @@ nav_order: 4
       </div>
     </div>
     <div class="edu-interest-box">
-      <span class="coming-tag">Coming Soon</span>
       <h4>Interest Form</h4>
       <p>Tell us which programs interest you and when you are available. No commitment, no cost. We will notify you when registration opens.</p>
-      <p style="margin-top: 0.6rem;"><a href="/contact/">Contact us</a> in the meantime to join the notification list.</p>
+      <p style="margin-top: 0.6rem;"><a href="https://tally.so/r/obpLWe" class="edu-btn-primary" style="display:inline-flex; margin-top: 0.5rem;">Fill Out Interest Form &rarr;</a></p>
     </div>
   </div>
 </section>
