@@ -6,12 +6,16 @@
   // Hero banner
   .edu-hero {
     background: #2c5f41;
-    color: #ffffff;
+    color: #ffffff !important;
     padding: 2.5rem 2rem 2rem;
     border-radius: 12px;
     margin-bottom: 2rem;
     position: relative;
     overflow: hidden;
+
+    &, h1, h2, h3, h4, p, span, div {
+      color: #ffffff !important;
+    }
 
     &::before {
       content: '';
@@ -145,10 +149,14 @@
     background: #2c5f41;
     border-radius: 12px;
     padding: 2rem;
-    color: #ffffff;
+    color: #ffffff !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    &, h3, h4, p, span, div {
+      color: #ffffff !important;
+    }
 
     .coming-tag {
       display: inline-block;
