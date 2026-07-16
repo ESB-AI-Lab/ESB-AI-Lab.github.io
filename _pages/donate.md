@@ -19,6 +19,14 @@ nav_order: 5
     </div>
   </div>
   <div class="donate-split-right">
+    <div class="donate-method zelle-method">
+      <div class="donate-method-icon zelle">Z</div>
+      <div class="donate-method-text">
+        <h3>Donate via Zelle <span class="donate-zero-tag">0% fees</span></h3>
+        <p>Send directly to <strong>giving@esbailab.org</strong></p>
+      </div>
+      <img src="{{ '/assets/img/zelle_qr.gif' | relative_url }}" alt="Zelle QR code" class="zelle-qr">
+    </div>
     <a href="https://www.zeffy.com/en-US/donation-form/supporting-esb-ai-lab-research-and-mentorship" class="donate-method">
       <div class="donate-method-icon zeffy">&#9829;</div>
       <div class="donate-method-text">

@@ -109,6 +109,31 @@
       background: #e8f0fe;
       color: #003087;
     }
+
+    &.zelle {
+      background: #ece5ff;
+      color: #6d1ed4;
+      font-weight: 700;
+    }
+  }
+
+  .zelle-method {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    border: 2px solid #6d1ed4;
+    border-radius: 10px;
+    background: var(--global-card-bg-color);
+    color: var(--global-text-color) !important;
+  }
+
+  .zelle-qr {
+    width: 64px;
+    height: 64px;
+    border-radius: 6px;
+    margin-left: auto;
+    flex-shrink: 0;
   }
 
   .donate-method-text {
@@ -258,6 +283,15 @@
 
 // Dark mode overrides
 html[data-theme="dark"] .donate-page {
+  .donate-method-icon.zelle {
+    background: #2a1f40;
+    color: #a67df5;
+  }
+
+  .zelle-method {
+    border-color: #a67df5;
+  }
+
   .donate-method-icon.paypal {
     background: #1a2540;
     color: #5a9bf5;
