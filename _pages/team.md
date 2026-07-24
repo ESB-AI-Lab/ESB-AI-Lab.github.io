@@ -94,13 +94,15 @@ nav_order: 7
   <div class="volunteer-grid">
     <div class="volunteer-card">
       <div class="volunteer-photo"><div class="initials">ET</div></div>
-      <div class="volunteer-name">Edward Tong</div>
+      <div class="volunteer-name">Edward Tang</div>
       <div class="volunteer-title">Volunteer Research Associate</div>
+      <div class="volunteer-blurb">Bioinformatics and machine learning</div>
     </div>
     <div class="volunteer-card">
       <div class="volunteer-photo"><div class="initials">SH</div></div>
       <div class="volunteer-name">Samuel Hernandez</div>
       <div class="volunteer-title">Volunteer Research Associate</div>
+      <div class="volunteer-blurb">Edge AI software development and model deployment for real-time inference</div>
     </div>
   </div>
 </div>
