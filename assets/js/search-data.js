@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-organization",
           title: "Organization",
-          description: "About ESB AI Lab Corporation, a California 501(c)(3) nonprofit.",
+          description: "About ESB AI Lab, a California 501(c)(3) nonprofit.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/organization/";
@@ -46,21 +46,21 @@ ninja.data = [{
           },
         },{id: "nav-contact",
           title: "Contact",
-          description: "Get in touch with ESB AI Lab Corporation.",
+          description: "Get in touch with ESB AI Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
           },
         },{id: "nav-team",
           title: "Team",
-          description: "Meet the team behind ESB AI Lab Corporation.",
+          description: "Meet the team behind ESB AI Lab.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
           },
         },{id: "nav-news",
           title: "News",
-          description: "Latest updates from ESB AI Lab Corporation",
+          description: "Latest updates from ESB AI Lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
