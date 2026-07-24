@@ -9,10 +9,10 @@ last_name: Solares
 contact_note: >
   Use our <a href="/contact/">contact form</a> to get in touch.
 description: >
-  ESB AI Lab Corporation: independent nonprofit research in artificial intelligence,
+  ESB AI Lab: independent nonprofit research in artificial intelligence,
   computational biology, conservation, and climate resilience.
 footer_text: >
-  &copy; 2026 ESB AI Lab Corporation. A California 501(c)(3) Nonprofit (pending).
+  &copy; 2026 ESB AI Lab. A California 501(c)(3) Nonprofit (pending).
 keywords: bioinformatics, machine learning, genomics, AI, conservation, computational biology, nonprofit research
 lang: en
 icon: 🧬
@@ -76,7 +76,7 @@ bing_site_verification:
 # -----------------------------------------------------------------------------
 
 blog_name: Lab News
-blog_description: Latest updates from ESB AI Lab Corporation
+blog_description: Latest updates from ESB AI Lab
 permalink: /blog/:year/:title/
 lsi: false
 

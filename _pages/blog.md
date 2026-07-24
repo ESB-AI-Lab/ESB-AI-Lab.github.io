@@ -4,7 +4,7 @@ permalink: /news/
 title: News
 nav: true
 nav_order: 8
-description: Latest updates from ESB AI Lab Corporation
+description: Latest updates from ESB AI Lab
 ---
 
 <div class="news">

@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-description: Get in touch with ESB AI Lab Corporation.
+description: Get in touch with ESB AI Lab.
 nav: true
 nav_order: 6
 ---

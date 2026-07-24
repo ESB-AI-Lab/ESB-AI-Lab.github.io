@@ -2,94 +2,166 @@
 layout: page
 permalink: /team/
 title: Team
-description: Meet the team behind ESB AI Lab Corporation.
+description: Meet the team behind ESB AI Lab.
 nav: true
 nav_order: 7
 ---
 
-## Board of Directors
+<div class="team-page" markdown="0">
 
-All board members serve in a volunteer capacity.
+<!-- Board of Directors -->
+<div class="team-section">
+  <div class="team-eyebrow">Leadership</div>
+  <div class="team-stitle">Board of Directors</div>
+  <div class="team-sdesc">All board members serve in a volunteer capacity.</div>
 
-<div class="row mt-4">
-  <div class="col-sm-3">
-    <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded" alt="Edwin Solares">
-  </div>
-  <div class="col-sm-9">
-    <h4><a href="https://edwinsolares.com">Edwin Alberto Solares, Ph.D.</a></h4>
-    <p><strong>Founder, President & Executive Director</strong> (Board Class III)</p>
-    <p>Computational biologist and AI researcher. Lecturer at UC San Diego (Computer Science & Engineering, Halicioglu Data Science Institute). His research has been published in <em>Nature Plants</em>, <em>PNAS</em>, <em>Genome Research</em>, and other leading journals.</p>
-    <p>
-      <strong>Education:</strong><br>
-      Ph.D. Ecology & Evolutionary Biology, UC Irvine (2021)<br>
-      M.S. Biology, UC Irvine (2019)<br>
-      B.S. Biomedical Computing, UC Irvine (2014)
-    </p>
-    <p>
-      <a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ">Google Scholar</a> |
-      <a href="https://orcid.org/0000-0002-3220-4927">ORCID</a> |
-      <a href="https://github.com/ESB-AI-Lab">GitHub</a>
-    </p>
+  <div class="portrait-grid">
+
+    <div class="portrait-card">
+      <div class="portrait-photo">
+        <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Edwin Solares">
+        <div class="portrait-overlay">
+          <h3><a href="https://edwinsolares.com">Edwin Alberto Solares, Ph.D.</a></h3>
+          <div class="p-role">Founder, President & Executive Director</div>
+          <div class="p-class">Class III</div>
+        </div>
+      </div>
+      <div class="portrait-body">
+        <p class="portrait-bio">Computational biologist and AI researcher. Previously Lecturer at UC San Diego (Computer Science & Engineering, Halicioglu Data Science Institute). His research has been published in <em>Nature Plants</em>, <em>PNAS</em>, <em>Genome Research</em>, and other leading journals.</p>
+        <div class="portrait-edu-label">Education</div>
+        <p class="portrait-edu">
+          Ph.D. Ecology & Evolutionary Biology, UC Irvine (2021)<br>
+          M.S. Biology, UC Irvine (2019)<br>
+          B.S. Biomedical Computing, UC Irvine (2014)
+        </p>
+        <div class="portrait-links">
+          <a href="https://scholar.google.com/citations?user=uhDHFV4AAAAJ">Google Scholar</a>
+          <a href="https://orcid.org/0000-0002-3220-4927">ORCID</a>
+          <a href="https://github.com/ESB-AI-Lab">GitHub</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="portrait-card">
+      <div class="portrait-photo">
+        <img src="{{ '/assets/img/allison_moreno.jpg' | relative_url }}" alt="Allison Moreno">
+        <div class="portrait-overlay">
+          <h3>Allison Renee Moreno, Ph.D.</h3>
+          <div class="p-role">Secretary</div>
+          <div class="p-class">Class II</div>
+        </div>
+      </div>
+      <div class="portrait-body">
+        <p class="portrait-bio">Marine biogeochemist at UC Santa Cruz. Her research focuses on surface particulate organic matter, community composition, and phytoplankton physiology. Utilizing field observations, laboratory experiments, and modeling techniques to address climate change impacts on deoxygenation and hypoxia. Founding board member of ESB AI Lab.</p>
+        <div class="portrait-edu-label">Education</div>
+        <p class="portrait-edu">
+          Ph.D. Ecology & Evolutionary Biology, UC Irvine (2019)<br>
+          M.S. Biological Science, UC Irvine (2018)<br>
+          B.S. Marine Science, CSU Monterey Bay (2014)
+        </p>
+      </div>
+    </div>
+
+    <div class="portrait-card">
+      <div class="portrait-photo">
+        <img src="{{ '/assets/img/kwasi_connor.jpg' | relative_url }}" alt="Kwasi Connor">
+        <div class="portrait-overlay">
+          <h3>Kwasi M. Connor, Ph.D.</h3>
+          <div class="p-role">Treasurer</div>
+          <div class="p-class">Class I</div>
+        </div>
+      </div>
+      <div class="portrait-body">
+        <p class="portrait-bio">Assistant Professor of Ecology and Evolutionary Biology at UC Irvine. His research employs integrative approaches spanning transcriptomics, metabolomics, and field ecology to characterize how marine invertebrates respond to environmental fluctuation, with the California mussel (<em>Mytilus californianus</em>) as his primary study system. UC President's Postdoctoral Fellow and Ford Foundation Postdoctoral Fellow.</p>
+        <div class="portrait-edu-label">Education</div>
+        <p class="portrait-edu">
+          Ph.D. Biological Sciences (Marine Environmental Biology), USC (2012)<br>
+          M.S. Biology, CSU Los Angeles (2006)<br>
+          B.A. Accounting, Morehouse College (1992)
+        </p>
+      </div>
+    </div>
+
   </div>
 </div>
 
-<div class="row mt-4">
-  <div class="col-sm-3">
-    <img src="/assets/img/allison_moreno.jpg" class="img-fluid rounded" alt="Allison Moreno">
-  </div>
-  <div class="col-sm-9">
-    <h4>Allison Renee Moreno, Ph.D.</h4>
-    <p><strong>Secretary</strong> (Board Class II)</p>
-    <p>Marine biogeochemist at UC Santa Cruz. Her research focuses surface particulate organic matter, community composition, and phytoplankton physiology and the factors controlling their variation. Utilizing field observations, laboratory experiments, and modeling techniques to address regional and large scales questions like: Can we establish the impacts and dynamics of climate change on deoxygenation and hypoxia? Dr. Moreno is also a founding board member of ESB AI Lab.</p>
-    <p>
-      <strong>Education:</strong><br>
-      Ph.D. Ecology & Evolutionary Biology, UC Irvine (2019)<br>
-      M.S. Biological Science, UC Irvine (2018)<br>
-      B.S. Marine Science, California State University, Monterey Bay (2014)
-    </p>
-  </div>
-</div>
+<!-- Volunteers -->
+<div class="team-section">
+  <div class="team-eyebrow">Contributors</div>
+  <div class="team-stitle">Volunteers</div>
+  <div class="team-sdesc">Researchers and professionals contributing their expertise to our programs.</div>
 
-<div class="row mt-4">
-  <div class="col-sm-3">
-    <img src="/assets/img/kwasi_connor.jpg" class="img-fluid rounded" alt="Kwasi Connor">
-  </div>
-  <div class="col-sm-9">
-    <h4>Kwasi M. Connor, Ph.D.</h4>
-    <p><strong>Treasurer</strong> (Board Class I)</p>
-    <p>Assistant Professor of Ecology and Evolutionary Biology at the University of California, Irvine, and serves on the Board of Directors of ESB AI Lab. His research program employs integrative approaches spanning transcriptomics, metabolomics, and field ecology to characterize how marine invertebrates respond to environmental fluctuation, with the California mussel (Mytilus californianus) as his primary study system. Dr. Connor's work on circadian transcriptional regulation in intertidal organisms (Connor and Gracey, 2011, PNAS) and high-resolution metabolic profiling under simulated stress (Connor and Gracey, 2012, American Journal of Physiology) has produced 9 publications and over 550 citations. He holds a B.A. in Accounting from Morehouse College (1992), an M.S. in Biology from California State University, Los Angeles (2006), and a Ph.D. in Biological Sciences from the University of Southern California (2012), where his dissertation examined transcriptomic and metabolomic responses of M. californianus to field and simulated environmental stressors. A UC President's Postdoctoral Fellow and Ford Foundation Postdoctoral Fellow at UC Irvine, Dr. Connor brings domain expertise in marine genomics and environmental physiology that directly informs ESB AI Lab's mission to apply computational and AI-driven methods to aquaculture and marine biological systems.</p>
-    <p>
-      <strong>Education:</strong><br>
-      Ph.D. in Biological Sciences (Marine Environmental Biology), University of Southern California (2012)<br>
-      - Dissertation: "Field and Simulated Environmental Effects on the Transcriptome and Metabolome of Mussel <em>Mytilus californianus</em>"<br>
-      M.S. in Biology, California State University, Los Angeles (2006)<br>
-      - Thesis: "Field Studies of the Relationships between Bottom Flow and Growth of the mussel <em>Mytilus californianus</em>"<br>
-      California Teaching Credential in Biological Sciences, CSULA — (2005)<br>
-      B.A. in Accounting, Morehouse College, Atlanta, GA (1992)
-    </p>
+  <div class="volunteer-grid">
+    <div class="volunteer-card">
+      <div class="volunteer-photo"><div class="initials">ET</div></div>
+      <div class="volunteer-name">Edward Tong</div>
+      <div class="volunteer-title">Volunteer Research Associate</div>
+    </div>
+    <div class="volunteer-card">
+      <div class="volunteer-photo"><div class="initials">SH</div></div>
+      <div class="volunteer-name">Samuel Hernandez</div>
+      <div class="volunteer-title">Volunteer Research Associate</div>
+    </div>
   </div>
 </div>
 
----
+<!-- Collaborators -->
+<div class="team-section">
+  <div class="team-eyebrow">Research Partners</div>
+  <div class="team-stitle">Collaborators</div>
+  <div class="team-sdesc">Faculty partners across the University of California system and beyond.</div>
 
-## Collaborators
+  <div class="collab-list">
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Mary Lu Arpaia</span>
+      <span class="collab-inst">UC Riverside, Botany & Plant Sciences</span>
+    </div>
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Jackson Gross</span>
+      <span class="collab-inst">UC Davis, Animal Sciences</span>
+    </div>
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Adam Summers</span>
+      <span class="collab-inst">UW Friday Harbor Laboratories</span>
+    </div>
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Brandon Gaut</span>
+      <span class="collab-inst">UC Irvine, Ecology & Evolutionary Biology</span>
+    </div>
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Dario Cantu</span>
+      <span class="collab-inst">UC Davis, Viticulture & Enology</span>
+    </div>
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Elizabeth Hemming Shrader</span>
+      <span class="collab-inst">Colorado State University</span>
+    </div>
+    <div class="collab-item">
+      <div class="collab-dot"></div>
+      <span class="collab-name">Dr. Donovan German</span>
+      <span class="collab-inst">UC Irvine</span>
+    </div>
+  </div>
+</div>
 
-- **Dr. Mary Lu Arpaia** : UC Riverside, Department of Botany & Plant Sciences
-- **Dr. Jackson Gross** : UC Davis, Department of Animal Sciences
-- **Dr. Adam Summers** : University of Washington, Friday Harbor Laboratories
-- **Dr. Brandon Gaut** : UC Irvine, Ecology & Evolutionary Biology
-- **Dr. Dario Cantu** : UC Davis, Viticulture & Enology
+<!-- Get Involved CTA -->
+<div class="team-section">
+  <div class="team-cta">
+    <div>
+      <h3>Work With Us</h3>
+      <p>We welcome researchers, students, volunteers, and community members who share our commitment to building AI for conservation, agriculture, and education.</p>
+    </div>
+    <div class="team-cta-buttons">
+      <a href="/contact/" class="cta-primary">Get in Touch</a>
+      <a href="/donate/" class="cta-secondary">Support Us</a>
+    </div>
+  </div>
+</div>
 
----
-
-## Get Involved
-
-ESB AI Lab welcomes researchers, students, volunteers, and community members who share our commitment to building AI for the soil, the water, the air, and the life they sustain. Whether you are a scientist exploring collaboration, a student seeking mentorship, or someone who wants to contribute time and expertise, we want to hear from you.
-
-**Volunteer:** We are building research programs in computer vision for species assessment, genomic analysis for climate-resilient agriculture, NLP for endangered languages, and edge AI for field deployment. If you have skills in any of these areas and want to contribute, [contact us](/contact/).
-
-**Collaborate:** We welcome inquiries from researchers, institutions, and organizations interested in joint research, data partnerships, or sponsored research agreements. [Get in touch](/contact/).
-
-**Students:** Research mentorship opportunities are available through our [Education Program](/education/).
-
-**Support:** Learn how you can [donate to our mission](/donate/).
+</div>

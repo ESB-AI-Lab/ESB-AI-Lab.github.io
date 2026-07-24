@@ -28,7 +28,7 @@ latest_posts:
   <a href="/donate/">Support our mission &rarr;</a>
 </div>
 
-ESB AI Lab Corporation is an independent nonprofit research organization developing computational methods in artificial intelligence, machine learning, and genomics to address challenges in food security, species conservation, climate resilience, human health, and language preservation.
+ESB AI Lab is an independent nonprofit research organization developing computational methods in artificial intelligence, machine learning, and genomics to address challenges in food security, species conservation, climate resilience, human health, and language preservation.
 
 ---
 

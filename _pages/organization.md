@@ -2,7 +2,7 @@
 layout: page
 title: Organization
 permalink: /organization/
-description: About ESB AI Lab Corporation, a California 501(c)(3) nonprofit.
+description: About ESB AI Lab, a California 501(c)(3) nonprofit.
 nav: true
 nav_order: 1
 ---
@@ -12,7 +12,7 @@ nav_order: 1
 <!-- Hero Banner -->
 <div class="org-hero">
   <div class="type-label">California 501(c)(3) Nonprofit</div>
-  <h1>ESB AI Lab Corporation</h1>
+  <h1>ESB AI Lab</h1>
   <p>We develop and apply computational methods in artificial intelligence, machine learning, computer vision, and genomics to address critical challenges in food security, species conservation, climate resilience, human health, science accessibility, and language preservation.</p>
   <div class="org-hero-facts">
     <div class="org-hero-fact">
