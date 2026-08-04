@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 description: Support ESB AI Lab's mission in AI, conservation, and education.
 nav: true
-nav_order: 5
+nav_order: 9
 ---
 
 <div class="donate-page" markdown="0">
