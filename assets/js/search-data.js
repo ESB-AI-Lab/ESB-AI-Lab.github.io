@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/education/";
           },
-        },{id: "nav-donate",
-          title: "Donate",
-          description: "Support ESB AI Lab&#39;s mission in AI, conservation, and education.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/donate/";
-          },
         },{id: "nav-contact",
           title: "Contact",
           description: "Get in touch with ESB AI Lab.",
@@ -64,6 +57,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
+          },
+        },{id: "nav-donate",
+          title: "Donate",
+          description: "Support ESB AI Lab&#39;s mission in AI, conservation, and education.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/donate/";
           },
         },{id: "news-paper-published-in-genome-research-diverse-patterns-of-secondary-structure-across-genes-and-transposable-elements-are-associated-with-sirna-production-and-epigenetic-fate",
           title: 'Paper published in Genome Research. “Diverse patterns of secondary structure across genes and...',
