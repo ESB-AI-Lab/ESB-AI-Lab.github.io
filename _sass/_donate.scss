@@ -307,23 +307,6 @@
   }
 }
 
-html[data-theme="dark"] .navbar-nav .nav-item.nav-donate {
-  .nav-link {
-    background-color: #2c5f41;
-    color: #ffffff !important;
-
-    &:hover {
-      background-color: #3a7a56;
-      box-shadow: 0 2px 8px rgba(44, 95, 65, 0.5);
-    }
-  }
-
-  &.active > .nav-link {
-    background-color: #3a7a56;
-    color: #ffffff !important;
-  }
-}
-
 // Dark mode overrides
 html[data-theme="dark"] .donate-page {
   .donate-method-icon.zelle {
