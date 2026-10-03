@@ -68,6 +68,7 @@ nav_order: 4
       <span class="badge">Self-Paced</span>
       <h4>Open Educational Resources</h4>
       <p>Tutorials, code notebooks, datasets, and video lectures published under permissive licenses (CC-BY for content, MIT for code). Free to use, adapt, and redistribute.</p>
+      <p style="margin-top: 0.6rem;"><a href="https://youtube.com/@esbailab" target="_blank" rel="noopener">Subscribe on YouTube &rarr;</a></p>
     </div>
   </div>
 </section>
