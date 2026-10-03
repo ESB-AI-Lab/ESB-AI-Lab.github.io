@@ -75,7 +75,7 @@ nav_order: 1
       </div>
       <div class="org-fact-row">
         <span class="org-fact-label">IRS Status</span>
-        <span class="org-fact-value">501(c)(3) Pending</span>
+        <span class="org-fact-value">501(c)(3)</span>
       </div>
       <div class="org-fact-row">
         <span class="org-fact-label">EIN</span>

@@ -74,7 +74,7 @@ nav_order: 9
     </div>
     <div class="donate-bottom-card">
       <h3>Tax Information</h3>
-      <p>ESB AI Lab has applied for recognition under Section 501(c)(3). Contributions are expected to be tax-deductible retroactive to April 22, 2026 upon favorable determination. Consult your tax advisor for contributions made before the determination letter.</p>
+      <p>ESB AI Lab is a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code. Contributions are tax-deductible to the extent permitted by law.</p>
       <div class="donate-ein">EIN: 42-2446472</div>
     </div>
   </div>
