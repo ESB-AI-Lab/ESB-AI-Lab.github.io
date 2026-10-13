@@ -15,7 +15,7 @@ nav_order: 9
     <h1>Your Gift Funds Independent Science</h1>
     <p>ESB AI Lab is a California nonprofit developing AI for conservation, food security, and education. We operate at a fraction of the overhead of traditional institutions.</p>
     <div class="donate-overhead-badge">
-      <strong>10%</strong> indirect cost rate, 90&cent; of every dollar to research
+      <strong>20%</strong> indirect cost rate, 80&cent; of every dollar to research
     </div>
   </div>
   <div class="donate-split-right">
