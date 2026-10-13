@@ -95,7 +95,7 @@ nav_order: 1
       </div>
       <div class="org-fact-row">
         <span class="org-fact-label">Overhead</span>
-        <span class="org-fact-value">10%</span>
+        <span class="org-fact-value">20%</span>
       </div>
     </div>
   </div>
