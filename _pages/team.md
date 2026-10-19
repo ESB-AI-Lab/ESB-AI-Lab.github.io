@@ -93,7 +93,7 @@ nav_order: 7
 
   <div class="volunteer-grid">
     <div class="volunteer-card" onclick="document.getElementById('spot-gonzalez').hidden=false">
-      <div class="volunteer-photo"><div class="initials">RG</div></div>
+      <div class="volunteer-photo"><img src="{{ '/assets/img/rodolfo_gonzalez.jpg' | relative_url }}" alt="Rodolfo Gonzalez"></div>
       <div class="volunteer-name">Rodolfo Gonzalez</div>
       <div class="volunteer-degree">B.S. Mechanical Engineering, UCSD</div>
       <div class="volunteer-title">Mechanical Engineering Assistant</div>
@@ -101,7 +101,7 @@ nav_order: 7
       <div class="volunteer-more">Read more &rarr;</div>
     </div>
     <div class="volunteer-card" onclick="document.getElementById('spot-hernandez').hidden=false">
-      <div class="volunteer-photo"><div class="initials">SH</div></div>
+      <div class="volunteer-photo"><img src="{{ '/assets/img/samuel_hernandez.jpg' | relative_url }}" alt="Samuel Hernandez"></div>
       <div class="volunteer-name">Samuel Hernandez</div>
       <div class="volunteer-degree">B.S. Computer Engineering, UCSD</div>
       <div class="volunteer-title">Lead Embedded Software Engineer</div>
@@ -117,7 +117,7 @@ nav_order: 7
       <div class="volunteer-more">Read more &rarr;</div>
     </div>
     <div class="volunteer-card" onclick="document.getElementById('spot-tamayo').hidden=false">
-      <div class="volunteer-photo"><div class="initials">CT</div></div>
+      <div class="volunteer-photo"><img src="{{ '/assets/img/cassandra_tamayo.jpg' | relative_url }}" alt="Cassandra Tamayo"></div>
       <div class="volunteer-name">Cassandra Tamayo</div>
       <div class="volunteer-degree">B.S. Mechanical Engineering, UCSD</div>
       <div class="volunteer-title">Mechanical Engineering Assistant</div>
@@ -125,7 +125,7 @@ nav_order: 7
       <div class="volunteer-more">Read more &rarr;</div>
     </div>
     <div class="volunteer-card" onclick="document.getElementById('spot-tang').hidden=false">
-      <div class="volunteer-photo"><div class="initials">ET</div></div>
+      <div class="volunteer-photo"><img src="{{ '/assets/img/edward_tang.jpg' | relative_url }}" alt="Edward Tang"></div>
       <div class="volunteer-name">Edward Tang</div>
       <div class="volunteer-degree">B.S. Bioinformatics, M.S. Biology, UCSD</div>
       <div class="volunteer-title">Bioinformatics Research Associate</div>
@@ -133,7 +133,7 @@ nav_order: 7
       <div class="volunteer-more">Read more &rarr;</div>
     </div>
     <div class="volunteer-card" onclick="document.getElementById('spot-wou').hidden=false">
-      <div class="volunteer-photo"><div class="initials">LW</div></div>
+      <div class="volunteer-photo"><img src="{{ '/assets/img/leo_wou.jpg' | relative_url }}" alt="Leo Wou"></div>
       <div class="volunteer-name">Leo Wou</div>
       <div class="volunteer-degree">B.S. Business/Economics, UCSD</div>
       <div class="volunteer-title">Marketing &amp; Business Development Associate</div>
@@ -207,7 +207,7 @@ nav_order: 7
   <div class="spot-modal">
     <button class="spot-close" onclick="this.closest('.spot-overlay').hidden=true">&times;</button>
     <div class="spot-header">
-      <div class="spot-photo"><div class="initials">RG</div></div>
+      <div class="spot-photo"><img src="{{ '/assets/img/rodolfo_gonzalez.jpg' | relative_url }}" alt="Rodolfo Gonzalez"></div>
       <div class="spot-info">
         <h3>Rodolfo Gonzalez</h3>
         <div class="spot-title">Mechanical Engineering Assistant Volunteer</div>
@@ -225,7 +225,7 @@ nav_order: 7
   <div class="spot-modal">
     <button class="spot-close" onclick="this.closest('.spot-overlay').hidden=true">&times;</button>
     <div class="spot-header">
-      <div class="spot-photo"><div class="initials">SH</div></div>
+      <div class="spot-photo"><img src="{{ '/assets/img/samuel_hernandez.jpg' | relative_url }}" alt="Samuel Hernandez"></div>
       <div class="spot-info">
         <h3>Samuel Hernandez</h3>
         <div class="spot-title">Lead Embedded Software Engineer, Abalone Edge AI Platform</div>
@@ -261,7 +261,7 @@ nav_order: 7
   <div class="spot-modal">
     <button class="spot-close" onclick="this.closest('.spot-overlay').hidden=true">&times;</button>
     <div class="spot-header">
-      <div class="spot-photo"><div class="initials">CT</div></div>
+      <div class="spot-photo"><img src="{{ '/assets/img/cassandra_tamayo.jpg' | relative_url }}" alt="Cassandra Tamayo"></div>
       <div class="spot-info">
         <h3>Cassandra Tamayo</h3>
         <div class="spot-title">Mechanical Engineering Assistant Volunteer</div>
@@ -280,7 +280,7 @@ nav_order: 7
   <div class="spot-modal">
     <button class="spot-close" onclick="this.closest('.spot-overlay').hidden=true">&times;</button>
     <div class="spot-header">
-      <div class="spot-photo"><div class="initials">ET</div></div>
+      <div class="spot-photo"><img src="{{ '/assets/img/edward_tang.jpg' | relative_url }}" alt="Edward Tang"></div>
       <div class="spot-info">
         <h3>Edward Tang</h3>
         <div class="spot-title">Volunteer Research Associate, Bioinformatics</div>
@@ -297,7 +297,7 @@ nav_order: 7
   <div class="spot-modal">
     <button class="spot-close" onclick="this.closest('.spot-overlay').hidden=true">&times;</button>
     <div class="spot-header">
-      <div class="spot-photo"><div class="initials">LW</div></div>
+      <div class="spot-photo"><img src="{{ '/assets/img/leo_wou.jpg' | relative_url }}" alt="Leo Wou"></div>
       <div class="spot-info">
         <h3>Leo Wou</h3>
         <div class="spot-title">Marketing and Business Development Volunteer Associate</div>
