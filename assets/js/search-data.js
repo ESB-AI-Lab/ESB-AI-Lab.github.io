@@ -131,7 +131,12 @@ ninja.data = [{
           section: "News",},{id: "news-esb-ai-lab-presents-at-the-inaugural-resilient-california-summit-esb-ai-lab-a-california-nonprofit-research-organization-is-attending-the-resilient-california-summit-in-sacramento-to-present-dr-edwin-solares-work-on-using-ai-for-species-conservation-and-food-security-the-poster-presentation-outlines-how-the-lab-s-computer-vision-work-is-deployed-to-edge-ai-devices-for-real-time-use-in-the-field-dr-solares-is-presenting-work-previously-funded-under-the-ca-cares-program-while-he-was-university-of-california-faculty-in-san-diego-in-which-zero-net-energy-devices-were-developed-to-help-researchers-government-agencies-and-tribal-nations-monitor-microclimates-species-diversity-and-invasive-species-and-make-decisions-that-improve-land-stewardship",
           title: 'ESB AI Lab presents at the inaugural Resilient California Summit. ESB AI Lab,...',
           description: "",
-          section: "News",},{id: "projects-sturgeon-ai",
+          section: "News",},{id: "news-distinguished-professor-brandon-s-gaut-joins-the-esb-ai-lab-board-of-directors",
+          title: 'Distinguished Professor Brandon S. Gaut joins the ESB AI Lab Board of Directors...',
+          description: "Dr. Brandon S. Gaut, Distinguished Professor of Ecology and Evolutionary Biology at the University of California, Irvine, has graciously agreed to volunteer as one of our board members and will also serve as chair of the Science Advisory Board. A past president of the Society for Molecular Biology and Evolution and recipient of the inaugural Genetics Society of America Mentorship Award, Dr. Gaut brings decades of scientific leadership and mentorship to ESB AI Lab.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-21-gaut-board/";
+            },},{id: "projects-sturgeon-ai",
           title: 'Sturgeon AI',
           description: "AI-assisted sex determination in sturgeon aquaculture",
           section: "Projects",handler: () => {
