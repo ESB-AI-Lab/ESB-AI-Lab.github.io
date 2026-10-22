@@ -62,6 +62,14 @@ nav_order: 1
         </div>
         <div class="org-member-class">Class I</div>
       </div>
+      <div class="org-board-member">
+        <div class="org-member-initials">BG</div>
+        <div class="org-member-info">
+          <h4>Brandon S. Gaut, Ph.D.</h4>
+          <p>Director / Science Advisory Board Chair</p>
+        </div>
+        <div class="org-member-class">Class II</div>
+      </div>
     </div>
   </div>
 

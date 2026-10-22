@@ -82,6 +82,25 @@ nav_order: 7
       </div>
     </div>
 
+    <div class="portrait-card">
+      <div class="portrait-photo">
+        <img src="{{ '/assets/img/brandon_gaut.jpg' | relative_url }}" alt="Brandon Gaut">
+        <div class="portrait-overlay">
+          <h3>Brandon S. Gaut, Ph.D.</h3>
+          <div class="p-role">Director & Science Advisory Board Chair</div>
+          <div class="p-class">Class II</div>
+        </div>
+      </div>
+      <div class="portrait-body">
+        <p class="portrait-bio">Distinguished Professor of Ecology and Evolutionary Biology at UC Irvine. His research focuses on the population genetics and evolution of plant genomes, including crop domestication and the effect of epigenetics on genome evolution. Past president of the Society for Molecular Biology and Evolution, AAAS Fellow, and recipient of the inaugural Genetics Society of America Mentorship Award.</p>
+        <div class="portrait-edu-label">Education</div>
+        <p class="portrait-edu">
+          Ph.D. Genetics, UC Riverside (1992)<br>
+          Bachelor's degree, UC Berkeley (1985)
+        </p>
+      </div>
+    </div>
+
   </div>
 </div>
 
