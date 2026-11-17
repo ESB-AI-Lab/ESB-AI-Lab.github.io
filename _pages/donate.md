@@ -13,10 +13,11 @@ nav_order: 9
 <div class="donate-split-hero">
   <div class="donate-split-left">
     <h1>Your Gift Funds Independent Science</h1>
-    <p>ESB AI Lab is a California nonprofit developing AI for conservation, food security, and education. We operate at a fraction of the overhead of traditional institutions.</p>
+    <p>ESB AI Lab is an independent California nonprofit developing AI for conservation, food security, and education. Your donation helps fund our research, supports the scientists and students who carry it out, and keeps our work running. Unless you designate a purpose, your gift goes where it is needed most.</p>
     <div class="donate-overhead-badge">
-      <strong>20%</strong> indirect cost rate, 80&cent; of every dollar to research
+      <strong>501(c)(3)</strong> gifts are tax-deductible to the extent permitted by law
     </div>
+    {% include fundraiser_gauge.liquid label="End-of-Year Campaign: $50,000 goal" %}
   </div>
   <div class="donate-split-right">
     <div class="donate-method zelle-method">

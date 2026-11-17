@@ -1,0 +1,5 @@
+# End-of-year 2026 fundraiser gauge, shown on the homepage and donate page.
+# To update: change `raised` (whole dollars, no commas or $) and `updated`, then push.
+raised: 401
+updated: 2026-11-17
+milestones: [1000, 5000, 10000, 25000, 50000]

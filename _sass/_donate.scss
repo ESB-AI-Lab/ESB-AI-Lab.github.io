@@ -282,6 +282,73 @@
 }
 
 /*******************************************************************************
+ * Fundraiser milestone gauge (sits in the green split-hero panel)
+ ******************************************************************************/
+
+.donate-page .donate-gauge {
+  margin-top: 1.25rem;
+  width: 100%;
+
+  .donate-gauge-label {
+    font-size: 0.68rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.85;
+    margin-bottom: 0.3rem;
+  }
+
+  .donate-gauge-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.75rem;
+    font-size: 0.8rem;
+    margin-bottom: 0.4rem;
+
+    strong {
+      font-size: 1.1rem;
+      font-weight: 700;
+    }
+  }
+
+  .donate-gauge-track {
+    height: 10px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.22);
+    overflow: hidden;
+  }
+
+  .donate-gauge-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: #8dd4a6;
+  }
+
+  .donate-gauge-milestones {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.45rem;
+    font-size: 0.68rem;
+  }
+
+  .donate-gauge-dot {
+    opacity: 0.6;
+
+    &.is-reached {
+      opacity: 1;
+      font-weight: 700;
+    }
+  }
+
+  .donate-gauge-updated {
+    margin-top: 0.35rem;
+    font-size: 0.65rem;
+    opacity: 0.7;
+  }
+}
+
+/*******************************************************************************
  * Donate nav button
  ******************************************************************************/
 

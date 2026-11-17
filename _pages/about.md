@@ -32,6 +32,42 @@ ESB AI Lab is an independent nonprofit research organization developing computat
 
 ---
 
+<div class="donate-page" markdown="0">
+<div class="donate-split-hero">
+  <div class="donate-split-left">
+    <h1>Help Us Raise $50,000 by December 31</h1>
+    <p>ESB AI Lab's research in conservation, food security, and education has been built largely by volunteers. Your gift goes where it is needed most, helping us grow our team and keep our work running into 2027. Gifts are tax-deductible to the extent permitted by law.</p>
+    {% include fundraiser_gauge.liquid %}
+  </div>
+  <div class="donate-split-right">
+    <div class="donate-method zelle-method">
+      <div class="donate-method-icon zelle">Z</div>
+      <div class="donate-method-text">
+        <h3>Donate via Zelle <span class="donate-zero-tag">0% fees</span></h3>
+        <p>Send directly to <strong>giving@esbailab.org</strong></p>
+      </div>
+      <img src="{{ '/assets/img/zelle_qr.gif' | relative_url }}" alt="Zelle QR code" class="zelle-qr">
+    </div>
+    <a href="https://www.zeffy.com/en-US/donation-form/supporting-esb-ai-lab-research-and-mentorship" class="donate-method">
+      <div class="donate-method-icon zeffy">&#9829;</div>
+      <div class="donate-method-text">
+        <h3>Donate via Zeffy <span class="donate-zero-tag">0% fees</span></h3>
+        <p>100% of your donation goes to ESB AI Lab</p>
+      </div>
+      <span class="donate-method-arrow">&#8594;</span>
+    </a>
+    <a href="https://www.paypal.com/ncp/payment/VM5L2HJ2TLSTN" class="donate-method">
+      <div class="donate-method-icon paypal">P</div>
+      <div class="donate-method-text">
+        <h3>Donate via PayPal</h3>
+        <p>Credit card, debit, or PayPal balance</p>
+      </div>
+      <span class="donate-method-arrow">&#8594;</span>
+    </a>
+  </div>
+</div>
+</div>
+
 ## Research Focus
 
 [View all research programs &rarr;](/research/)

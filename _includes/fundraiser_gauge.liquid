@@ -1,0 +1,52 @@
+{% comment %}
+  Milestone gauge for the fundraiser in _data/fundraiser.yml.
+  The bar fills toward the next unmet milestone rather than the final goal, so
+  early progress stays visible (donors give more as a goal gets close).
+{% endcomment %}
+{% assign f = site.data.fundraiser %}
+{% comment %}Tolerate "$1,250" or 1250.75 typed into the data file.{% endcomment %}
+{% assign raised = f.raised | append: '' | remove: '$' | remove: ',' | strip | plus: 0 | round %}
+{% assign goal = f.milestones | last %}
+{% assign next = goal %}
+{% for m in f.milestones %}
+  {% if raised < m %}{% assign next = m %}{% break %}{% endif %}
+{% endfor %}
+{% if raised >= goal %}
+  {% assign pct = 100 %}
+{% else %}
+  {% assign pct = raised | times: 100 | divided_by: next %}
+{% endif %}
+
+{% capture raised_fmt %}{% include fundraiser_money.liquid n=raised %}{% endcapture %}
+{% capture next_fmt %}{% include fundraiser_money.liquid n=next %}{% endcapture %}
+
+<div class="donate-gauge">
+  {% if include.label %}<div class="donate-gauge-label">{{ include.label }}</div>{% endif %}
+  <div class="donate-gauge-head">
+    <span><strong>${{ raised_fmt | strip }}</strong> raised</span>
+    {% if raised >= goal %}
+      <span>Goal reached!</span>
+    {% elsif next == goal %}
+      <span>Goal: ${{ next_fmt | strip }}</span>
+    {% else %}
+      <span>Next milestone: ${{ next_fmt | strip }}</span>
+    {% endif %}
+  </div>
+  <div
+    class="donate-gauge-track"
+    role="progressbar"
+    aria-valuemin="0"
+    aria-valuemax="{{ next }}"
+    aria-valuenow="{{ raised }}"
+    aria-label="${{ raised_fmt | strip }} raised toward ${{ next_fmt | strip }}"
+  >
+    <div class="donate-gauge-fill" style="width: {{ pct }}%;"></div>
+  </div>
+  <div class="donate-gauge-milestones">
+    {% for m in f.milestones %}
+      {% assign k = m | divided_by: 1000 %}
+      <span class="donate-gauge-dot{% if raised >= m %} is-reached{% endif %}">${{ k }}k{% if forloop.last %} goal{% endif %}</span>
+    {% endfor %}
+  </div>
+  <div class="donate-gauge-updated">Updated {{ f.updated | date: '%b %-d, %Y' }}</div>
+</div>
